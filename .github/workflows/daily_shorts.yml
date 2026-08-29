@@ -1,0 +1,81 @@
+name: Daily Movies & TV Shorts (TMDB)
+
+on:
+  schedule:
+    # Run daily at 14:00 UTC
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install System Dependencies (FFmpeg)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute Daily Shorts Automation Pipeline
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          YOUTUBE_TOKEN_DATA: ${{ secrets.YOUTUBE_TOKEN_DATA }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+        run: |
+          python scripts/run_pipeline.py
+
+      - name: Commit and Push History State Back to Repository
+        if: always()
+        run: |
+          # Run Content-Aware JSON Merge to deduplicate persistent history files
+          python scripts/merge_history.py
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add data/*.json
+          
+          if git diff --staged --quiet; then
+            echo "No history changes to commit."
+          else
+            git commit -m "auto: update daily selection and cooldown history [skip ci]"
+            
+            # Pull with rebase safely (only call rebase --abort if rebase is actually in progress)
+            if ! git pull --rebase origin main; then
+              echo "Rebase conflict occurred. Checking if rebase is active before aborting..."
+              if [ -d ".git/rebase-merge" ] || [ -d ".git/rebase-apply" ]; then
+                git rebase --abort
+              fi
+              # Re-merge history files after reset
+              python scripts/merge_history.py
+              git add data/*.json
+              git commit -m "auto: resolved history state merge [skip ci]"
+            fi
+            
+            git push origin main
+          fi

@@ -1,0 +1,44 @@
+[
+  {
+    "tmdb_id": 101,
+    "title": "Inception",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:06.482010+00:00",
+    "run_start_time": "2026-08-29T15:54:06.482010+00:00"
+  },
+  {
+    "tmdb_id": 102,
+    "title": "Interstellar",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:06.482010+00:00",
+    "run_start_time": "2026-08-29T15:54:06.482010+00:00"
+  },
+  {
+    "tmdb_id": 103,
+    "title": "The Dark Knight",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:06.482010+00:00",
+    "run_start_time": "2026-08-29T15:54:06.482010+00:00"
+  },
+  {
+    "tmdb_id": 104,
+    "title": "Dune: Part Two",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:26.590079+00:00",
+    "run_start_time": "2026-08-29T15:54:26.590079+00:00"
+  },
+  {
+    "tmdb_id": 105,
+    "title": "Whiplash",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:26.590079+00:00",
+    "run_start_time": "2026-08-29T15:54:26.590079+00:00"
+  },
+  {
+    "tmdb_id": 106,
+    "title": "Pulp Fiction",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-08-29T15:54:26.590079+00:00",
+    "run_start_time": "2026-08-29T15:54:26.590079+00:00"
+  }
+]
