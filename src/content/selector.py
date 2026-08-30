@@ -42,15 +42,17 @@ class ContentSelector:
                 valid_candidates.append(c)
 
         if len(valid_candidates) < 3:
-            logger.warning(f"Not enough non-cooldown candidates for {concept_type} ({len(valid_candidates)} found). Expanding search pool with trending titles.")
-            fallback_trending = self.tmdb.get_trending()
-            for c in fallback_trending:
-                if not self.history.is_title_on_cooldown(c["tmdb_id"], c["title"], run_start_time):
-                    if c["tmdb_id"] not in [vc["tmdb_id"] for vc in valid_candidates]:
-                        valid_candidates.append(c)
+            logger.warning(f"Not enough non-cooldown candidates for {concept_type} ({len(valid_candidates)} found). Expanding search pool with available candidates.")
+            for c in candidates:
+                if c["tmdb_id"] not in [vc["tmdb_id"] for vc in valid_candidates]:
+                    valid_candidates.append(c)
+                    if len(valid_candidates) >= 3:
+                        break
 
         # Select 3 titles based on concept rules
         selected_titles = self._filter_trio_for_concept(concept_type, valid_candidates)
+        if len(selected_titles) < 3:
+            selected_titles = candidates[:3]
 
         # RECORD SELECTIONS IMMEDIATELY AT SELECTION TIME
         self.history.record_title_selections(selected_titles, concept_type, run_start_time)

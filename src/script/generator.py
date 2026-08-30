@@ -24,8 +24,11 @@ class ScriptGenerator:
         Generates script using LLM if available, otherwise fallback template engine.
         Performs natural script QA and fact-checking audits.
         """
-        recent_hooks = self.history.get_recent_scripts(limit=10)
+        recent_hooks = self.history.get_recent_hooks(limit=10)
+        recent_scripts = self.history.get_recent_scripts(limit=10)
         recent_ctas = self.history.get_recent_ctas(limit=5)
+        recent_video_titles = self.history.get_recent_video_titles(limit=10)
+
         fact_context = FactChecker.build_fact_context(titles)
 
         script_data = None
@@ -60,7 +63,9 @@ class ScriptGenerator:
                 concept_type=concept_type,
                 titles=titles,
                 recent_hooks=recent_hooks,
-                recent_cta_styles=recent_ctas
+                recent_cta_styles=recent_ctas,
+                recent_full_texts=recent_scripts,
+                recent_video_titles=recent_video_titles
             )
 
         # Record CTA usage

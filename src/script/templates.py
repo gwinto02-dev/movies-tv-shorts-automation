@@ -1,4 +1,5 @@
 import random
+import difflib
 import logging
 from typing import List, Dict, Any, Tuple
 from src.utils.history_manager import HistoryManager
@@ -68,9 +69,15 @@ class TemplateEngine:
     def __init__(self, history_manager: HistoryManager):
         self.history = history_manager
 
-    def select_fresh_hook(self, recent_hooks: List[str]) -> Dict[str, str]:
-        """Proactively selects a hook that hasn't been used recently."""
-        available = [h for h in HOOK_POOL if h["template"] not in recent_hooks]
+    def select_fresh_hook(self, recent_hooks: List[str], recent_full_texts: List[str]) -> Dict[str, str]:
+        """Proactively selects a hook that hasn't been used in recent hooks or scripts."""
+        available = []
+        for h in HOOK_POOL:
+            tmpl = h["template"]
+            is_used = (tmpl in recent_hooks) or any(tmpl in ft for ft in recent_full_texts)
+            if not is_used:
+                available.append(h)
+        
         if not available:
             available = HOOK_POOL
         return random.choice(available)
@@ -91,10 +98,15 @@ class TemplateEngine:
         concept_type: str,
         titles: List[Dict[str, Any]],
         recent_hooks: List[str],
-        recent_cta_styles: List[str]
+        recent_cta_styles: List[str],
+        recent_full_texts: List[str] = None,
+        recent_video_titles: List[str] = None
     ) -> Dict[str, Any]:
         """Generates a complete rule-based script using high-quality templates."""
-        hook_obj = self.select_fresh_hook(recent_hooks)
+        recent_full_texts = recent_full_texts or []
+        recent_video_titles = recent_video_titles or []
+
+        hook_obj = self.select_fresh_hook(recent_hooks, recent_full_texts)
         hook_text = hook_obj["template"]
         
         cta_style, cta_text = self.select_fresh_cta(recent_cta_styles)
@@ -130,8 +142,8 @@ class TemplateEngine:
         full_speech_parts.append(cta_text)
         full_text = " ".join(full_speech_parts)
 
-        # Video Title generation with concept signal + variety
-        video_title = self.generate_video_title(concept_type, titles)
+        # Video Title generation with concept signal + variety check vs recent titles
+        video_title = self.generate_video_title(concept_type, titles, recent_video_titles)
 
         return {
             "concept_type": concept_type,
@@ -144,17 +156,42 @@ class TemplateEngine:
             "video_title": video_title
         }
 
-    def generate_video_title(self, concept_type: str, titles: List[Dict[str, Any]]) -> str:
-        """Generates a YouTube Short title signaling concept type with varied phrasing."""
+    def generate_video_title(
+        self,
+        concept_type: str,
+        titles: List[Dict[str, Any]],
+        recent_video_titles: List[str] = None
+    ) -> str:
+        """Generates a YouTube Short title signaling concept type with proactive variety verification."""
+        recent_video_titles = recent_video_titles or []
         t_names = [t.get("title") for t in titles]
-        joined = ", ".join(t_names[:2])
+        joined = ", ".join(t_names[:2]) if t_names else "Top Movies"
         
         patterns = [
             f"3 Must-Watch Movies You Need to Stream Right Now! ({concept_type})",
             f"Stop Scrolling! 3 Incredible Movies To Watch Tonight ({concept_type})",
             f"3 Movies That Will Keep You Hooked Until The End! ({joined})",
-            f"Top 3 Movie Recommendations You Can't Miss ({concept_type})"
+            f"Top 3 Movie Recommendations You Can't Miss ({concept_type})",
+            f"3 Unbelievable Films To Watch Right Now ({concept_type})",
+            f"Mind-Blowing Movie Recommendations You Need To See ({joined})"
         ]
-        return random.choice(patterns)
+
+        # Filter out patterns that have high similarity (>0.75) to any recent video title
+        fresh_patterns = []
+        for p in patterns:
+            too_similar = False
+            for rvt in recent_video_titles:
+                ratio = difflib.SequenceMatcher(None, p, rvt).ratio()
+                if ratio > 0.75:
+                    too_similar = True
+                    break
+            if not too_similar:
+                fresh_patterns.append(p)
+
+        if not fresh_patterns:
+            fresh_patterns = patterns
+
+        return random.choice(fresh_patterns)
+
 
 Tuple_CTA = tuple[str, str]

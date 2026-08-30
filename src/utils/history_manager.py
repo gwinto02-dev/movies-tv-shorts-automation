@@ -145,6 +145,10 @@ class HistoryManager:
         history = self._read_json(self.script_history_file)
         return [h.get("full_text", "") for h in history[-limit:]]
 
+    def get_recent_hooks(self, limit: int = 10) -> List[str]:
+        history = self._read_json(self.script_history_file)
+        return [h.get("hook", "") for h in history[-limit:] if h.get("hook")]
+
     def record_script(self, script_data: Dict[str, Any]) -> None:
         history = self._read_json(self.script_history_file)
         history.append({
