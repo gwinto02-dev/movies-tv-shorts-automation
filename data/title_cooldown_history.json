@@ -82,5 +82,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-08-31T14:08:25.606411+00:00",
     "run_start_time": "2026-08-31T14:08:25.606411+00:00"
+  },
+  {
+    "tmdb_id": 1375646,
+    "title": "Colony",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-01T14:13:35.996923+00:00",
+    "run_start_time": "2026-09-01T14:13:35.996923+00:00"
+  },
+  {
+    "tmdb_id": 1204680,
+    "title": "Coyote vs. Acme",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-01T14:13:35.996923+00:00",
+    "run_start_time": "2026-09-01T14:13:35.996923+00:00"
+  },
+  {
+    "tmdb_id": 1393326,
+    "title": "Ghost in the Cell",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-01T14:13:35.996923+00:00",
+    "run_start_time": "2026-09-01T14:13:35.996923+00:00"
   }
 ]
