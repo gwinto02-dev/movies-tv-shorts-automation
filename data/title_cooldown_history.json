@@ -103,5 +103,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-01T14:13:35.996923+00:00",
     "run_start_time": "2026-09-01T14:13:35.996923+00:00"
+  },
+  {
+    "tmdb_id": 1384216,
+    "title": "The Dog Stars",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-02T14:13:40.516086+00:00",
+    "run_start_time": "2026-09-02T14:13:40.516086+00:00"
+  },
+  {
+    "tmdb_id": 1127384,
+    "title": "Deep Water",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-02T14:13:40.516086+00:00",
+    "run_start_time": "2026-09-02T14:13:40.516086+00:00"
+  },
+  {
+    "tmdb_id": 299534,
+    "title": "Avengers: Endgame",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-02T14:13:40.516086+00:00",
+    "run_start_time": "2026-09-02T14:13:40.516086+00:00"
   }
 ]
