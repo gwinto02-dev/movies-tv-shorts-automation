@@ -145,5 +145,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-09-03T14:14:39.284683+00:00",
     "run_start_time": "2026-09-03T14:14:39.284683+00:00"
+  },
+  {
+    "tmdb_id": 1386315,
+    "title": "The Runner",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-04T14:13:13.219765+00:00",
+    "run_start_time": "2026-09-04T14:13:13.219765+00:00"
+  },
+  {
+    "tmdb_id": 1355228,
+    "title": "Gandhari",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-04T14:13:13.219765+00:00",
+    "run_start_time": "2026-09-04T14:13:13.219765+00:00"
+  },
+  {
+    "tmdb_id": 1506560,
+    "title": "Clash of the Thundermans",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-04T14:13:13.219765+00:00",
+    "run_start_time": "2026-09-04T14:13:13.219765+00:00"
   }
 ]
