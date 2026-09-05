@@ -187,5 +187,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-05T09:25:00.184237+00:00",
     "run_start_time": "2026-09-05T09:25:00.184237+00:00"
+  },
+  {
+    "tmdb_id": 860508,
+    "title": "The Whisper Man",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-05T14:11:59.068871+00:00",
+    "run_start_time": "2026-09-05T14:11:59.068871+00:00"
+  },
+  {
+    "tmdb_id": 1084244,
+    "title": "Toy Story 5",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-05T14:11:59.068871+00:00",
+    "run_start_time": "2026-09-05T14:11:59.068871+00:00"
+  },
+  {
+    "tmdb_id": 1323244,
+    "title": "Rage of Stars",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-05T14:11:59.068871+00:00",
+    "run_start_time": "2026-09-05T14:11:59.068871+00:00"
   }
 ]
