@@ -166,5 +166,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-04T14:13:13.219765+00:00",
     "run_start_time": "2026-09-04T14:13:13.219765+00:00"
+  },
+  {
+    "tmdb_id": 1285366,
+    "title": "Shape of My Heart",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-05T09:25:00.184237+00:00",
+    "run_start_time": "2026-09-05T09:25:00.184237+00:00"
+  },
+  {
+    "tmdb_id": 1516698,
+    "title": "The Last Sunrise",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-05T09:25:00.184237+00:00",
+    "run_start_time": "2026-09-05T09:25:00.184237+00:00"
+  },
+  {
+    "tmdb_id": 1213243,
+    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-05T09:25:00.184237+00:00",
+    "run_start_time": "2026-09-05T09:25:00.184237+00:00"
   }
 ]
