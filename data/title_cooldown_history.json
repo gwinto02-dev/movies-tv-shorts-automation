@@ -376,5 +376,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-09-08T13:04:32.114409+00:00",
     "run_start_time": "2026-09-08T13:04:32.114409+00:00"
+  },
+  {
+    "tmdb_id": 1433367,
+    "title": "One Night Only",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-08T19:04:18.457362+00:00",
+    "run_start_time": "2026-09-08T19:04:18.457362+00:00"
+  },
+  {
+    "tmdb_id": 1739206,
+    "title": "Untold Mr. T: I Pity the Fool",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-08T19:04:18.457362+00:00",
+    "run_start_time": "2026-09-08T19:04:18.457362+00:00"
+  },
+  {
+    "tmdb_id": 1377237,
+    "title": "Runner",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-08T19:04:18.457362+00:00",
+    "run_start_time": "2026-09-08T19:04:18.457362+00:00"
   }
 ]
