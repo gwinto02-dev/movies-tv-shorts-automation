@@ -439,5 +439,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-09T07:04:35.132438+00:00",
     "run_start_time": "2026-09-09T07:04:35.132438+00:00"
+  },
+  {
+    "tmdb_id": 1232449,
+    "title": "Young Hearts",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-09T13:05:12.499683+00:00",
+    "run_start_time": "2026-09-09T13:05:12.499683+00:00"
+  },
+  {
+    "tmdb_id": 1218925,
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-09T13:05:12.499683+00:00",
+    "run_start_time": "2026-09-09T13:05:12.499683+00:00"
+  },
+  {
+    "tmdb_id": 129,
+    "title": "Spirited Away",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-09T13:05:12.499683+00:00",
+    "run_start_time": "2026-09-09T13:05:12.499683+00:00"
   }
 ]
