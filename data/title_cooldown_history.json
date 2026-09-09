@@ -397,5 +397,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-08T19:04:18.457362+00:00",
     "run_start_time": "2026-09-08T19:04:18.457362+00:00"
+  },
+  {
+    "tmdb_id": 1273221,
+    "title": "Scary Movie",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-09T01:03:42.013738+00:00",
+    "run_start_time": "2026-09-09T01:03:42.013738+00:00"
+  },
+  {
+    "tmdb_id": 1180894,
+    "title": "Under Your Feet",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-09T01:03:42.013738+00:00",
+    "run_start_time": "2026-09-09T01:03:42.013738+00:00"
+  },
+  {
+    "tmdb_id": 1226863,
+    "title": "The Super Mario Galaxy Movie",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-09T01:03:42.013738+00:00",
+    "run_start_time": "2026-09-09T01:03:42.013738+00:00"
   }
 ]
