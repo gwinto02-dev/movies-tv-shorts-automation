@@ -418,5 +418,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-09T01:03:42.013738+00:00",
     "run_start_time": "2026-09-09T01:03:42.013738+00:00"
+  },
+  {
+    "tmdb_id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-09T07:04:35.132438+00:00",
+    "run_start_time": "2026-09-09T07:04:35.132438+00:00"
+  },
+  {
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-09T07:04:35.132438+00:00",
+    "run_start_time": "2026-09-09T07:04:35.132438+00:00"
+  },
+  {
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-09T07:04:35.132438+00:00",
+    "run_start_time": "2026-09-09T07:04:35.132438+00:00"
   }
 ]
