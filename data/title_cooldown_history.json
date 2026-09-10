@@ -481,5 +481,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-09T19:03:13.282311+00:00",
     "run_start_time": "2026-09-09T19:03:13.282311+00:00"
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-10T01:03:58.130532+00:00",
+    "run_start_time": "2026-09-10T01:03:58.130532+00:00"
+  },
+  {
+    "tmdb_id": 1594914,
+    "title": "Lucky Strike",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-10T01:03:58.130532+00:00",
+    "run_start_time": "2026-09-10T01:03:58.130532+00:00"
+  },
+  {
+    "tmdb_id": 1280738,
+    "title": "The Furious",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-10T01:03:58.130532+00:00",
+    "run_start_time": "2026-09-10T01:03:58.130532+00:00"
   }
 ]

@@ -148,5 +148,10 @@
     "cta_style": "direct_ask",
     "text": "Which one are you streaming tonight? Comment your choice below and subscribe for daily watchlists!",
     "timestamp": "2026-09-09T19:04:04.744205+00:00"
+  },
+  {
+    "cta_style": "direct_ask",
+    "text": "Which of these 2026 blockbusters are you adding to your watchlist first? Subscribe for more daily recommendations!",
+    "timestamp": "2026-09-10T01:04:09.104406+00:00"
   }
 ]
