@@ -523,5 +523,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-10T07:04:47.809052+00:00",
     "run_start_time": "2026-09-10T07:04:47.809052+00:00"
+  },
+  {
+    "tmdb_id": 1365884,
+    "title": "Call My Agent! The Movie",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T13:03:00.406257+00:00",
+    "run_start_time": "2026-09-10T13:03:00.406257+00:00"
+  },
+  {
+    "tmdb_id": 1212763,
+    "title": "Evil Dead Burn",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T13:03:00.406257+00:00",
+    "run_start_time": "2026-09-10T13:03:00.406257+00:00"
+  },
+  {
+    "tmdb_id": 1440098,
+    "title": "Drawn Together",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T13:03:00.406257+00:00",
+    "run_start_time": "2026-09-10T13:03:00.406257+00:00"
   }
 ]
