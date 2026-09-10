@@ -502,5 +502,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-10T01:03:58.130532+00:00",
     "run_start_time": "2026-09-10T01:03:58.130532+00:00"
+  },
+  {
+    "tmdb_id": 1465063,
+    "title": "Forgotten Island",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T07:04:47.809052+00:00",
+    "run_start_time": "2026-09-10T07:04:47.809052+00:00"
+  },
+  {
+    "tmdb_id": 1325734,
+    "title": "The Drama",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T07:04:47.809052+00:00",
+    "run_start_time": "2026-09-10T07:04:47.809052+00:00"
+  },
+  {
+    "tmdb_id": 1170608,
+    "title": "Dune: Part Three",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-10T07:04:47.809052+00:00",
+    "run_start_time": "2026-09-10T07:04:47.809052+00:00"
   }
 ]
