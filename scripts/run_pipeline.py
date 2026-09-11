@@ -16,7 +16,7 @@ if str(BASE_DIR) not in sys.path:
 
 from config.settings import settings
 from src.content.tmdb_client import TMDBClient
-from src.content.selector import ContentSelector
+from src.content.selector import ContentSelector, InsufficientCandidatesError
 from src.content.stock_video import VisualAssetManager
 from src.script.generator import ScriptGenerator
 from src.audio.tts_engine import TTSEngine
@@ -45,7 +45,13 @@ def run_pipeline(dry_run: bool = False) -> bool:
 
     # Phase 2: Content Selection & Immediate Cooldown Recording
     selector = ContentSelector(tmdb, history)
-    concept_type, titles = selector.select_daily_content(run_start_time)
+    try:
+        concept_type, titles = selector.select_daily_content(run_start_time)
+    except InsufficientCandidatesError as e:
+        # Don't burn Gemini/TTS/FFmpeg time on a run that's guaranteed to be
+        # blocked at the QA gate - skip cleanly instead.
+        logger.warning(f"Skipping this run: {e}")
+        return True
     logger.info(f"Featured Titles selected for '{concept_type}': {[t['title'] for t in titles]}")
 
     # Phase 3: Fact-Checked Script Generation

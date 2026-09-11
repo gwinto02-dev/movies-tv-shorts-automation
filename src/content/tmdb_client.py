@@ -83,29 +83,48 @@ class TMDBClient:
             "cast": item.get("cast", [])
         }
 
-    def get_trending(self, media_type: str = "movie", time_window: str = "day") -> List[Dict[str, Any]]:
-        res = self._get(f"/trending/{media_type}/{time_window}")
-        if not res:
+    def get_trending(self, media_type: str = "movie", time_window: str = "day", pages: int = 1) -> List[Dict[str, Any]]:
+        results = []
+        for page in range(1, pages + 1):
+            res = self._get(f"/trending/{media_type}/{time_window}", {"page": page})
+            if not res or not res.get("results"):
+                break
+            results.extend(res.get("results", []))
+        if not results:
             return self._mock_titles(media_type, "Trending")
-        return [self.format_title_data(item, media_type) for item in res.get("results", [])]
+        return [self.format_title_data(item, media_type) for item in results]
 
-    def get_popular(self, media_type: str = "movie") -> List[Dict[str, Any]]:
-        res = self._get(f"/{media_type}/popular")
-        if not res:
+    def get_popular(self, media_type: str = "movie", pages: int = 1) -> List[Dict[str, Any]]:
+        results = []
+        for page in range(1, pages + 1):
+            res = self._get(f"/{media_type}/popular", {"page": page})
+            if not res or not res.get("results"):
+                break
+            results.extend(res.get("results", []))
+        if not results:
             return self._mock_titles(media_type, "Popular")
-        return [self.format_title_data(item, media_type) for item in res.get("results", [])]
+        return [self.format_title_data(item, media_type) for item in results]
 
-    def get_top_rated(self, media_type: str = "movie") -> List[Dict[str, Any]]:
-        res = self._get(f"/{media_type}/top_rated")
-        if not res:
+    def get_top_rated(self, media_type: str = "movie", pages: int = 1) -> List[Dict[str, Any]]:
+        results = []
+        for page in range(1, pages + 1):
+            res = self._get(f"/{media_type}/top_rated", {"page": page})
+            if not res or not res.get("results"):
+                break
+            results.extend(res.get("results", []))
+        if not results:
             return self._mock_titles(media_type, "Top Rated")
-        return [self.format_title_data(item, media_type) for item in res.get("results", [])]
+        return [self.format_title_data(item, media_type) for item in results]
 
-    def get_upcoming_or_now_playing(self) -> List[Dict[str, Any]]:
-        res_upcoming = self._get("/movie/upcoming") or {}
-        res_now = self._get("/movie/now_playing") or {}
-        
-        results = res_upcoming.get("results", []) + res_now.get("results", [])
+    def get_upcoming_or_now_playing(self, pages: int = 1) -> List[Dict[str, Any]]:
+        results = []
+        for page in range(1, pages + 1):
+            res_upcoming = self._get("/movie/upcoming", {"page": page}) or {}
+            res_now = self._get("/movie/now_playing", {"page": page}) or {}
+            page_results = res_upcoming.get("results", []) + res_now.get("results", [])
+            if not page_results:
+                break
+            results.extend(page_results)
         if not results:
             return self._mock_titles("movie", "Upcoming")
         return [self.format_title_data(item, "movie") for item in results]

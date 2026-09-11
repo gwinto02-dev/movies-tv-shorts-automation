@@ -8,6 +8,12 @@ from src.utils.history_manager import HistoryManager
 
 logger = logging.getLogger(__name__)
 
+
+class InsufficientCandidatesError(Exception):
+    """Raised when no combination of concept type / TMDB pages yields 3 titles off cooldown."""
+    pass
+
+
 CONCEPT_TYPES = [
     "Genre-Diverse Trio",
     "Underrated Trio",
@@ -29,30 +35,42 @@ class ContentSelector:
         concept_type = self._pick_concept_type()
         logger.info(f"Selected concept type: {concept_type}")
 
-        candidates = self._fetch_candidates_for_concept(concept_type)
-        
-        # Filter out titles on 30-day cooldown
-        valid_candidates = []
-        for c in candidates:
-            if not self.history.is_title_on_cooldown(
-                tmdb_id=c["tmdb_id"],
-                title=c["title"],
-                run_start_time=run_start_time
-            ):
-                valid_candidates.append(c)
+        # Try progressively larger candidate pools (more TMDB pages) before giving up.
+        # We never fall back to cooldown titles - that guarantees a QA gate failure
+        # after the full (expensive) pipeline has already run.
+        valid_candidates: List[Dict[str, Any]] = []
+        candidates: List[Dict[str, Any]] = []
+        max_pages = 5
+        for pages in range(1, max_pages + 1):
+            candidates = self._fetch_candidates_for_concept(concept_type, pages=pages)
+
+            valid_candidates = []
+            for c in candidates:
+                if not self.history.is_title_on_cooldown(
+                    tmdb_id=c["tmdb_id"],
+                    title=c["title"],
+                    run_start_time=run_start_time
+                ):
+                    valid_candidates.append(c)
+
+            if len(valid_candidates) >= 3:
+                if pages > 1:
+                    logger.info(f"Needed {pages} TMDB page(s) to find 3 non-cooldown candidates for {concept_type}.")
+                break
+            logger.warning(f"Not enough non-cooldown candidates for {concept_type} ({len(valid_candidates)} found) with {pages} page(s). Widening pool.")
 
         if len(valid_candidates) < 3:
-            logger.warning(f"Not enough non-cooldown candidates for {concept_type} ({len(valid_candidates)} found). Expanding search pool with available candidates.")
-            for c in candidates:
-                if c["tmdb_id"] not in [vc["tmdb_id"] for vc in valid_candidates]:
-                    valid_candidates.append(c)
-                    if len(valid_candidates) >= 3:
-                        break
+            raise InsufficientCandidatesError(
+                f"Could not find 3 non-cooldown candidates for '{concept_type}' even after "
+                f"fetching {max_pages} TMDB page(s) ({len(candidates)} candidates, "
+                f"{len(valid_candidates)} off cooldown). Skipping this run rather than "
+                f"selecting a title still on cooldown."
+            )
 
-        # Select 3 titles based on concept rules
+        # Select 3 titles based on concept rules (valid_candidates only - never cooldown titles)
         selected_titles = self._filter_trio_for_concept(concept_type, valid_candidates)
         if len(selected_titles) < 3:
-            selected_titles = candidates[:3]
+            selected_titles = valid_candidates[:3]
 
         # RECORD SELECTIONS IMMEDIATELY AT SELECTION TIME
         self.history.record_title_selections(selected_titles, concept_type, run_start_time)
@@ -67,11 +85,11 @@ class ContentSelector:
             available = CONCEPT_TYPES
         return random.choice(available)
 
-    def _fetch_candidates_for_concept(self, concept_type: str) -> List[Dict[str, Any]]:
+    def _fetch_candidates_for_concept(self, concept_type: str, pages: int = 1) -> List[Dict[str, Any]]:
         if concept_type == "Genre-Diverse Trio":
-            return self.tmdb.get_popular(media_type="movie")
+            return self.tmdb.get_popular(media_type="movie", pages=pages)
         elif concept_type == "Underrated Trio":
-            candidates = self.tmdb.get_top_rated(media_type="movie")
+            candidates = self.tmdb.get_top_rated(media_type="movie", pages=pages)
             # Apply absolute popularity floor to avoid calling mainstream movies underrated
             return [
                 c for c in candidates 
@@ -79,13 +97,13 @@ class ContentSelector:
                 and c.get("popularity", 0) >= settings.UNDERRATED_MIN_POPULARITY
             ]
         elif concept_type == "Trending Trio":
-            return self.tmdb.get_trending(media_type="movie")
+            return self.tmdb.get_trending(media_type="movie", pages=pages)
         elif concept_type == "Upcoming Spotlight Trio":
-            return self.tmdb.get_upcoming_or_now_playing()
+            return self.tmdb.get_upcoming_or_now_playing(pages=pages)
         elif concept_type == "Decade Spotlight Trio":
-            return self.tmdb.get_popular(media_type="movie")
+            return self.tmdb.get_popular(media_type="movie", pages=pages)
         else:
-            return self.tmdb.get_trending()
+            return self.tmdb.get_trending(pages=pages)
 
     def _filter_trio_for_concept(
         self,
