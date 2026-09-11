@@ -670,5 +670,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-11T07:14:54.825937+00:00",
     "run_start_time": "2026-09-11T07:14:54.825937+00:00"
+  },
+  {
+    "tmdb_id": 497,
+    "title": "The Green Mile",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-11T07:24:28.547442+00:00",
+    "run_start_time": "2026-09-11T07:24:28.547442+00:00"
+  },
+  {
+    "tmdb_id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-11T07:24:28.547442+00:00",
+    "run_start_time": "2026-09-11T07:24:28.547442+00:00"
+  },
+  {
+    "tmdb_id": 19404,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-11T07:24:28.547442+00:00",
+    "run_start_time": "2026-09-11T07:24:28.547442+00:00"
   }
 ]
