@@ -7,6 +7,7 @@ from typing import List, Dict, Any, Tuple
 from src.script.fact_checker import FactChecker
 from src.script.generator import ScriptGenerator
 from src.utils.history_manager import HistoryManager
+from src.utils.text_processing import find_near_duplicate_title
 
 logger = logging.getLogger(__name__)
 
@@ -126,11 +127,9 @@ class QAChecks:
     @staticmethod
     def check_video_title_variety(video_title: str, concept_type: str, history_manager: HistoryManager) -> Tuple[bool, str]:
         recent_titles = history_manager.get_recent_video_titles(limit=10)
-        
-        for past in recent_titles:
-            ratio = difflib.SequenceMatcher(None, video_title, past).ratio()
-            if ratio > 0.80:
-                return False, f"Video Title Variety Failure: Title '{video_title}' is near-duplicate of recent title '{past}'."
+        dup = find_near_duplicate_title(video_title, recent_titles)
+        if dup:
+            return False, f"Video Title Variety Failure: Title '{video_title}' is near-duplicate of recent title '{dup}'."
 
         return True, "Video title signals concept type and has unique phrasing."
 

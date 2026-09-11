@@ -7,6 +7,7 @@ from src.qa.circuit_breaker import circuit_breaker
 from src.script.fact_checker import FactChecker
 from src.script.templates import TemplateEngine
 from src.utils.history_manager import HistoryManager
+from src.utils.text_processing import find_near_duplicate_title
 
 logger = logging.getLogger(__name__)
 
@@ -39,18 +40,28 @@ class ScriptGenerator:
             for attempt in range(1, max_attempts + 1):
                 try:
                     logger.info(f"Attempting Gemini LLM script generation (Attempt {attempt}/{max_attempts})...")
-                    llm_script = self._generate_with_gemini(concept_type, titles, fact_context, recent_hooks)
+                    llm_script = self._generate_with_gemini(concept_type, titles, fact_context, recent_hooks, recent_video_titles)
                     
                     # Validate natural script QA
                     qa_ok, qa_reasons = self.check_natural_script_qa(llm_script["full_text"], concept_type, titles)
                     fact_ok, fact_reasons = FactChecker.audit_script_facts(llm_script["full_text"], titles)
 
-                    if qa_ok and fact_ok:
+                    # Same near-duplicate-title check the Supervisor QA gate runs at the end -
+                    # catch it here so we can retry instead of burning TTS/video render on a
+                    # script that's guaranteed to be blocked.
+                    dup_title = find_near_duplicate_title(llm_script.get("video_title", ""), recent_video_titles)
+
+                    if qa_ok and fact_ok and not dup_title:
                         circuit_breaker.record_success()
                         script_data = llm_script
                         break
                     else:
-                        logger.warning(f"LLM script QA/Fact audit failed: QA={qa_reasons}, Fact={fact_reasons}")
+                        reasons = list(qa_reasons)
+                        if not fact_ok:
+                            reasons.append(f"Fact audit: {fact_reasons}")
+                        if dup_title:
+                            reasons.append(f"Video Title Variety: '{llm_script.get('video_title')}' too similar to recent '{dup_title}'")
+                        logger.warning(f"LLM script QA/Fact/Title audit failed: {reasons}")
                 except Exception as e:
                     logger.error(f"Gemini LLM generation exception: {e}")
                     circuit_breaker.record_failure(str(e))
@@ -77,11 +88,21 @@ class ScriptGenerator:
         concept_type: str,
         titles: List[Dict[str, Any]],
         fact_context: str,
-        recent_hooks: List[str]
+        recent_hooks: List[str],
+        recent_video_titles: List[str]
     ) -> Dict[str, Any]:
         import google.generativeai as genai
         genai.configure(api_key=settings.GEMINI_API_KEY)
         model = genai.GenerativeModel(settings.GEMINI_MODEL_NAME)
+
+        avoid_titles_block = ""
+        if recent_video_titles:
+            recent_list = "\n".join(f"- {t}" for t in recent_video_titles)
+            avoid_titles_block = f"""
+RECENTLY USED VIDEO TITLES (DO NOT reuse these or produce a close variant with the same
+structure/wording - vary the phrasing, angle, and sentence pattern, not just the movie count/year):
+{recent_list}
+"""
 
         prompt = f"""
 You are an expert YouTube Shorts scriptwriter for a Movie/TV recommendation channel.
@@ -91,7 +112,7 @@ Concept Type: {concept_type}
 
 FACTS Context (DO NOT alter any ratings, years, or titles):
 {fact_context}
-
+{avoid_titles_block}
 REQUIREMENTS:
 1. Total spoken duration must be 15 to 45 seconds (approx 75 to 110 words).
 2. Start with a curiosity or tension-driven HOOK (question, bold claim, or scenario).
@@ -100,6 +121,8 @@ REQUIREMENTS:
 5. NEVER say "N/A", "null", or missing data placeholders out loud.
 6. NEVER use clichés like "In a world where..." or "Buckle up!".
 7. NEVER repeat the same word twice in a row (e.g. "recommendations recommendations").
+8. The "video_title" must be meaningfully different in structure and wording from the recently
+   used titles listed above, not just a swapped adjective or year.
 
 Return ONLY valid JSON matching this structure:
 {{

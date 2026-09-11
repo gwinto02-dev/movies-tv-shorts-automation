@@ -1,5 +1,6 @@
 import re
 from typing import List, Set
+from difflib import SequenceMatcher
 
 STOPWORDS: Set[str] = {
     "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of",
@@ -46,3 +47,18 @@ def extract_sync_keywords(title: str) -> List[str]:
     # Filter out stopwords
     keywords = [w for w in words if w not in STOPWORDS and len(w) > 1]
     return keywords if keywords else [cleaned_title.lower()]
+
+def find_near_duplicate_title(candidate: str, past_titles: List[str], threshold: float = 0.80) -> str:
+    """
+    Returns the first past title that is a near-duplicate of `candidate` (character-level
+    similarity ratio above `threshold`), or "" if none match. Shared by the script generator
+    (to retry/steer generation away from repeats) and the QA supervisor's title variety check
+    (to block near-duplicates that slipped through), so both use the same definition of "too similar".
+    """
+    for past in past_titles:
+        if not past:
+            continue
+        ratio = SequenceMatcher(None, candidate, past).ratio()
+        if ratio > threshold:
+            return past
+    return ""
