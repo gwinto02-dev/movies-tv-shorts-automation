@@ -628,5 +628,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-11T01:03:56.390800+00:00",
     "run_start_time": "2026-09-11T01:03:56.390800+00:00"
+  },
+  {
+    "tmdb_id": 813418,
+    "title": "Hot Spot",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-11T07:04:33.026750+00:00",
+    "run_start_time": "2026-09-11T07:04:33.026750+00:00"
+  },
+  {
+    "tmdb_id": 1762506,
+    "title": "Band of Brothers: Legacy",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-11T07:04:33.026750+00:00",
+    "run_start_time": "2026-09-11T07:04:33.026750+00:00"
+  },
+  {
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-11T07:04:33.026750+00:00",
+    "run_start_time": "2026-09-11T07:04:33.026750+00:00"
   }
 ]
