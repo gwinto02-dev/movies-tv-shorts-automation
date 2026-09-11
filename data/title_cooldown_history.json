@@ -649,5 +649,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-11T07:04:33.026750+00:00",
     "run_start_time": "2026-09-11T07:04:33.026750+00:00"
+  },
+  {
+    "tmdb_id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-11T07:14:54.825937+00:00",
+    "run_start_time": "2026-09-11T07:14:54.825937+00:00"
+  },
+  {
+    "tmdb_id": 1599993,
+    "title": "Animals",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-11T07:14:54.825937+00:00",
+    "run_start_time": "2026-09-11T07:14:54.825937+00:00"
+  },
+  {
+    "tmdb_id": 755898,
+    "title": "War of the Worlds",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-11T07:14:54.825937+00:00",
+    "run_start_time": "2026-09-11T07:14:54.825937+00:00"
   }
 ]
