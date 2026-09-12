@@ -796,5 +796,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-12T13:03:16.568655+00:00",
     "run_start_time": "2026-09-12T13:03:16.568655+00:00"
+  },
+  {
+    "tmdb_id": 1558568,
+    "title": "Go Team!",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-12T19:02:43.664316+00:00",
+    "run_start_time": "2026-09-12T19:02:43.664316+00:00"
+  },
+  {
+    "tmdb_id": 977942,
+    "title": "The Uprising",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-12T19:02:43.664316+00:00",
+    "run_start_time": "2026-09-12T19:02:43.664316+00:00"
+  },
+  {
+    "tmdb_id": 1356963,
+    "title": "Little Lorraine",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-12T19:02:43.664316+00:00",
+    "run_start_time": "2026-09-12T19:02:43.664316+00:00"
   }
 ]
