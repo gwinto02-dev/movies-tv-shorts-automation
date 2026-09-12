@@ -775,5 +775,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-12T07:03:16.213488+00:00",
     "run_start_time": "2026-09-12T07:03:16.213488+00:00"
+  },
+  {
+    "tmdb_id": 1101383,
+    "title": "The End of Oak Street",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-12T13:03:16.568655+00:00",
+    "run_start_time": "2026-09-12T13:03:16.568655+00:00"
+  },
+  {
+    "tmdb_id": 30723,
+    "title": "Cavegirl",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-12T13:03:16.568655+00:00",
+    "run_start_time": "2026-09-12T13:03:16.568655+00:00"
+  },
+  {
+    "tmdb_id": 1284465,
+    "title": "The Death of Robin Hood",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-12T13:03:16.568655+00:00",
+    "run_start_time": "2026-09-12T13:03:16.568655+00:00"
   }
 ]
