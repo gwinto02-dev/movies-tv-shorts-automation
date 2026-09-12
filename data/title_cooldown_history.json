@@ -733,5 +733,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-11T19:03:04.890332+00:00",
     "run_start_time": "2026-09-11T19:03:04.890332+00:00"
+  },
+  {
+    "tmdb_id": 1122573,
+    "title": "In the Grey",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-12T01:03:01.950621+00:00",
+    "run_start_time": "2026-09-12T01:03:01.950621+00:00"
+  },
+  {
+    "tmdb_id": 1564614,
+    "title": "Leviticus",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-12T01:03:01.950621+00:00",
+    "run_start_time": "2026-09-12T01:03:01.950621+00:00"
+  },
+  {
+    "tmdb_id": 1709391,
+    "title": "Hanuman Ansh",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-12T01:03:01.950621+00:00",
+    "run_start_time": "2026-09-12T01:03:01.950621+00:00"
   }
 ]
