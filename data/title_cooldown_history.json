@@ -838,5 +838,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-13T01:02:51.802261+00:00",
     "run_start_time": "2026-09-13T01:02:51.802261+00:00"
+  },
+  {
+    "tmdb_id": 218,
+    "title": "The Terminator",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T07:03:32.431122+00:00",
+    "run_start_time": "2026-09-13T07:03:32.431122+00:00"
+  },
+  {
+    "tmdb_id": 49494,
+    "title": "The Eagle",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T07:03:32.431122+00:00",
+    "run_start_time": "2026-09-13T07:03:32.431122+00:00"
+  },
+  {
+    "tmdb_id": 299536,
+    "title": "Avengers: Infinity War",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T07:03:32.431122+00:00",
+    "run_start_time": "2026-09-13T07:03:32.431122+00:00"
   }
 ]
