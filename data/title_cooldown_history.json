@@ -880,5 +880,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-13T13:02:41.471828+00:00",
     "run_start_time": "2026-09-13T13:02:41.471828+00:00"
+  },
+  {
+    "tmdb_id": 1419406,
+    "title": "The Shadow's Edge",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T19:02:44.972085+00:00",
+    "run_start_time": "2026-09-13T19:02:44.972085+00:00"
+  },
+  {
+    "tmdb_id": 6435,
+    "title": "Practical Magic",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T19:02:44.972085+00:00",
+    "run_start_time": "2026-09-13T19:02:44.972085+00:00"
+  },
+  {
+    "tmdb_id": 1084242,
+    "title": "Zootopia 2",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-13T19:02:44.972085+00:00",
+    "run_start_time": "2026-09-13T19:02:44.972085+00:00"
   }
 ]
