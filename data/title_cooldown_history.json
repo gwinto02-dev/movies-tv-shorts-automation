@@ -859,5 +859,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-13T07:03:32.431122+00:00",
     "run_start_time": "2026-09-13T07:03:32.431122+00:00"
+  },
+  {
+    "tmdb_id": 1483525,
+    "title": "Possible Love",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-13T13:02:41.471828+00:00",
+    "run_start_time": "2026-09-13T13:02:41.471828+00:00"
+  },
+  {
+    "tmdb_id": 1032863,
+    "title": "The Love Hypothesis",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-13T13:02:41.471828+00:00",
+    "run_start_time": "2026-09-13T13:02:41.471828+00:00"
+  },
+  {
+    "tmdb_id": 1318413,
+    "title": "Pressure",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-13T13:02:41.471828+00:00",
+    "run_start_time": "2026-09-13T13:02:41.471828+00:00"
   }
 ]
