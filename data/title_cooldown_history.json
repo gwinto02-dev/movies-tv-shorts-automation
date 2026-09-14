@@ -943,5 +943,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-14T07:05:00.351285+00:00",
     "run_start_time": "2026-09-14T07:05:00.351285+00:00"
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-14T13:05:59.667722+00:00",
+    "run_start_time": "2026-09-14T13:05:59.667722+00:00"
+  },
+  {
+    "tmdb_id": 1545484,
+    "title": "Deathwoods",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-14T13:05:59.667722+00:00",
+    "run_start_time": "2026-09-14T13:05:59.667722+00:00"
+  },
+  {
+    "tmdb_id": 19995,
+    "title": "Avatar",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-14T13:05:59.667722+00:00",
+    "run_start_time": "2026-09-14T13:05:59.667722+00:00"
   }
 ]
