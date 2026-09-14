@@ -922,5 +922,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-14T01:04:19.843625+00:00",
     "run_start_time": "2026-09-14T01:04:19.843625+00:00"
+  },
+  {
+    "tmdb_id": 1378742,
+    "title": "Drive Through Fire",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-14T07:05:00.351285+00:00",
+    "run_start_time": "2026-09-14T07:05:00.351285+00:00"
+  },
+  {
+    "tmdb_id": 1375441,
+    "title": "Primetime",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-14T07:05:00.351285+00:00",
+    "run_start_time": "2026-09-14T07:05:00.351285+00:00"
+  },
+  {
+    "tmdb_id": 1433583,
+    "title": "The Weight",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-14T07:05:00.351285+00:00",
+    "run_start_time": "2026-09-14T07:05:00.351285+00:00"
   }
 ]
