@@ -985,5 +985,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-14T19:04:32.324851+00:00",
     "run_start_time": "2026-09-14T19:04:32.324851+00:00"
+  },
+  {
+    "tmdb_id": 1340206,
+    "title": "Tuner",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-15T01:04:04.037596+00:00",
+    "run_start_time": "2026-09-15T01:04:04.037596+00:00"
+  },
+  {
+    "tmdb_id": 1305781,
+    "title": "Blades of the Guardians",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-15T01:04:04.037596+00:00",
+    "run_start_time": "2026-09-15T01:04:04.037596+00:00"
+  },
+  {
+    "tmdb_id": 1391021,
+    "title": "Once Upon a Time in the Middle East",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-15T01:04:04.037596+00:00",
+    "run_start_time": "2026-09-15T01:04:04.037596+00:00"
   }
 ]
