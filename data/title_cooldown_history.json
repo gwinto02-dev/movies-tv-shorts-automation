@@ -1006,5 +1006,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-15T01:04:04.037596+00:00",
     "run_start_time": "2026-09-15T01:04:04.037596+00:00"
+  },
+  {
+    "tmdb_id": 264980,
+    "title": "Loves of a French Pussycat",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-15T07:06:07.098575+00:00",
+    "run_start_time": "2026-09-15T07:06:07.098575+00:00"
+  },
+  {
+    "tmdb_id": 76341,
+    "title": "Mad Max: Fury Road",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-15T07:06:07.098575+00:00",
+    "run_start_time": "2026-09-15T07:06:07.098575+00:00"
+  },
+  {
+    "tmdb_id": 49026,
+    "title": "The Dark Knight Rises",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-15T07:06:07.098575+00:00",
+    "run_start_time": "2026-09-15T07:06:07.098575+00:00"
   }
 ]
