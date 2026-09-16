@@ -1090,5 +1090,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-16T01:03:28.614522+00:00",
     "run_start_time": "2026-09-16T01:03:28.614522+00:00"
+  },
+  {
+    "tmdb_id": 447273,
+    "title": "Snow White",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T07:04:31.792189+00:00",
+    "run_start_time": "2026-09-16T07:04:31.792189+00:00"
+  },
+  {
+    "tmdb_id": 71578,
+    "title": "Desnudos",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T07:04:31.792189+00:00",
+    "run_start_time": "2026-09-16T07:04:31.792189+00:00"
+  },
+  {
+    "tmdb_id": 24428,
+    "title": "The Avengers",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T07:04:31.792189+00:00",
+    "run_start_time": "2026-09-16T07:04:31.792189+00:00"
   }
 ]
