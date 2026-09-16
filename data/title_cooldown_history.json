@@ -1132,5 +1132,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-16T13:04:56.166204+00:00",
     "run_start_time": "2026-09-16T13:04:56.166204+00:00"
+  },
+  {
+    "tmdb_id": 1156869,
+    "title": "Blaze of Love",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T19:03:18.265517+00:00",
+    "run_start_time": "2026-09-16T19:03:18.265517+00:00"
+  },
+  {
+    "tmdb_id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T19:03:18.265517+00:00",
+    "run_start_time": "2026-09-16T19:03:18.265517+00:00"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-16T19:03:18.265517+00:00",
+    "run_start_time": "2026-09-16T19:03:18.265517+00:00"
   }
 ]
