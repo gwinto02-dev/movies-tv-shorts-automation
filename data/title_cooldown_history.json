@@ -1195,5 +1195,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-09-17T07:04:55.380445+00:00",
     "run_start_time": "2026-09-17T07:04:55.380445+00:00"
+  },
+  {
+    "tmdb_id": 920,
+    "title": "Cars",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-17T13:05:07.828654+00:00",
+    "run_start_time": "2026-09-17T13:05:07.828654+00:00"
+  },
+  {
+    "tmdb_id": 1599191,
+    "title": "Renegade Immortal: Battle of the Immortal Slayer",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-17T13:05:07.828654+00:00",
+    "run_start_time": "2026-09-17T13:05:07.828654+00:00"
+  },
+  {
+    "tmdb_id": 1292415,
+    "title": "Beast",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-17T13:05:07.828654+00:00",
+    "run_start_time": "2026-09-17T13:05:07.828654+00:00"
   }
 ]
