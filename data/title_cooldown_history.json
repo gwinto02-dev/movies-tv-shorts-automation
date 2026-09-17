@@ -1174,5 +1174,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-17T01:03:46.972078+00:00",
     "run_start_time": "2026-09-17T01:03:46.972078+00:00"
+  },
+  {
+    "tmdb_id": 346,
+    "title": "Seven Samurai",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-17T07:04:55.380445+00:00",
+    "run_start_time": "2026-09-17T07:04:55.380445+00:00"
+  },
+  {
+    "tmdb_id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-17T07:04:55.380445+00:00",
+    "run_start_time": "2026-09-17T07:04:55.380445+00:00"
+  },
+  {
+    "tmdb_id": 550,
+    "title": "Fight Club",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-17T07:04:55.380445+00:00",
+    "run_start_time": "2026-09-17T07:04:55.380445+00:00"
   }
 ]
