@@ -1258,5 +1258,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-18T01:03:32.812720+00:00",
     "run_start_time": "2026-09-18T01:03:32.812720+00:00"
+  },
+  {
+    "tmdb_id": 1184918,
+    "title": "The Wild Robot",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-18T07:03:40.062473+00:00",
+    "run_start_time": "2026-09-18T07:03:40.062473+00:00"
+  },
+  {
+    "tmdb_id": 315635,
+    "title": "Spider-Man: Homecoming",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-18T07:03:40.062473+00:00",
+    "run_start_time": "2026-09-18T07:03:40.062473+00:00"
+  },
+  {
+    "tmdb_id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-18T07:03:40.062473+00:00",
+    "run_start_time": "2026-09-18T07:03:40.062473+00:00"
   }
 ]
