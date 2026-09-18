@@ -1279,5 +1279,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-18T07:03:40.062473+00:00",
     "run_start_time": "2026-09-18T07:03:40.062473+00:00"
+  },
+  {
+    "tmdb_id": 1400837,
+    "title": "Other Mommy",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-18T13:03:10.765331+00:00",
+    "run_start_time": "2026-09-18T13:03:10.765331+00:00"
+  },
+  {
+    "tmdb_id": 1567937,
+    "title": "V",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-18T13:03:10.765331+00:00",
+    "run_start_time": "2026-09-18T13:03:10.765331+00:00"
+  },
+  {
+    "tmdb_id": 1430698,
+    "title": "The Bay",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-18T13:03:10.765331+00:00",
+    "run_start_time": "2026-09-18T13:03:10.765331+00:00"
   }
 ]
