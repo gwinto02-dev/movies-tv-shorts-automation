@@ -1300,5 +1300,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-18T13:03:10.765331+00:00",
     "run_start_time": "2026-09-18T13:03:10.765331+00:00"
+  },
+  {
+    "tmdb_id": 1327819,
+    "title": "Hoppers",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-18T19:04:18.467343+00:00",
+    "run_start_time": "2026-09-18T19:04:18.467343+00:00"
+  },
+  {
+    "tmdb_id": 1110034,
+    "title": "Kraken",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-18T19:04:18.467343+00:00",
+    "run_start_time": "2026-09-18T19:04:18.467343+00:00"
+  },
+  {
+    "tmdb_id": 1314481,
+    "title": "The Devil Wears Prada 2",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-18T19:04:18.467343+00:00",
+    "run_start_time": "2026-09-18T19:04:18.467343+00:00"
   }
 ]
