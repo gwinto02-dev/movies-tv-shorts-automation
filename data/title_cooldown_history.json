@@ -1321,5 +1321,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-18T19:04:18.467343+00:00",
     "run_start_time": "2026-09-18T19:04:18.467343+00:00"
+  },
+  {
+    "tmdb_id": 637,
+    "title": "Life Is Beautiful",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-19T01:02:59.508268+00:00",
+    "run_start_time": "2026-09-19T01:02:59.508268+00:00"
+  },
+  {
+    "tmdb_id": 121,
+    "title": "The Lord of the Rings: The Two Towers",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-19T01:02:59.508268+00:00",
+    "run_start_time": "2026-09-19T01:02:59.508268+00:00"
+  },
+  {
+    "tmdb_id": 598,
+    "title": "City of God",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-19T01:02:59.508268+00:00",
+    "run_start_time": "2026-09-19T01:02:59.508268+00:00"
   }
 ]
