@@ -1384,5 +1384,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-19T13:03:04.238499+00:00",
     "run_start_time": "2026-09-19T13:03:04.238499+00:00"
+  },
+  {
+    "tmdb_id": 1469930,
+    "title": "Project Sacrifice",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-19T19:02:40.212973+00:00",
+    "run_start_time": "2026-09-19T19:02:40.212973+00:00"
+  },
+  {
+    "tmdb_id": 693134,
+    "title": "Dune: Part Two",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-19T19:02:40.212973+00:00",
+    "run_start_time": "2026-09-19T19:02:40.212973+00:00"
+  },
+  {
+    "tmdb_id": 1228834,
+    "title": "The Fix",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-19T19:02:40.212973+00:00",
+    "run_start_time": "2026-09-19T19:02:40.212973+00:00"
   }
 ]
