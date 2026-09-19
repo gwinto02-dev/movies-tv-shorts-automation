@@ -1342,5 +1342,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-09-19T01:02:59.508268+00:00",
     "run_start_time": "2026-09-19T01:02:59.508268+00:00"
+  },
+  {
+    "tmdb_id": 1641629,
+    "title": "You+Me - Against the World",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-19T07:02:54.067099+00:00",
+    "run_start_time": "2026-09-19T07:02:54.067099+00:00"
+  },
+  {
+    "tmdb_id": 18239,
+    "title": "The Twilight Saga: New Moon",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-19T07:02:54.067099+00:00",
+    "run_start_time": "2026-09-19T07:02:54.067099+00:00"
+  },
+  {
+    "tmdb_id": 70160,
+    "title": "The Hunger Games",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-19T07:02:54.067099+00:00",
+    "run_start_time": "2026-09-19T07:02:54.067099+00:00"
   }
 ]
