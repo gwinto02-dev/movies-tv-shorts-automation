@@ -1489,5 +1489,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-20T21:07:21.027848+00:00",
     "run_start_time": "2026-09-20T21:07:21.027848+00:00"
+  },
+  {
+    "tmdb_id": 1224993,
+    "title": "Dark Nuns",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-21T05:37:32.962107+00:00",
+    "run_start_time": "2026-09-21T05:37:32.962107+00:00"
+  },
+  {
+    "tmdb_id": 460458,
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-21T05:37:32.962107+00:00",
+    "run_start_time": "2026-09-21T05:37:32.962107+00:00"
+  },
+  {
+    "tmdb_id": 1386238,
+    "title": "Black Gold",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-21T05:37:32.962107+00:00",
+    "run_start_time": "2026-09-21T05:37:32.962107+00:00"
   }
 ]
