@@ -1510,5 +1510,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-21T05:37:32.962107+00:00",
     "run_start_time": "2026-09-21T05:37:32.962107+00:00"
+  },
+  {
+    "tmdb_id": 1891,
+    "title": "The Empire Strikes Back",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-21T22:22:32.772243+00:00",
+    "run_start_time": "2026-09-21T22:22:32.772243+00:00"
+  },
+  {
+    "tmdb_id": 4935,
+    "title": "Howl's Moving Castle",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-21T22:22:32.772243+00:00",
+    "run_start_time": "2026-09-21T22:22:32.772243+00:00"
+  },
+  {
+    "tmdb_id": 807,
+    "title": "Se7en",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-21T22:22:32.772243+00:00",
+    "run_start_time": "2026-09-21T22:22:32.772243+00:00"
   }
 ]
