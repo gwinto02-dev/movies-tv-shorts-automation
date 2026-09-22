@@ -1531,5 +1531,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-09-21T22:22:32.772243+00:00",
     "run_start_time": "2026-09-21T22:22:32.772243+00:00"
+  },
+  {
+    "tmdb_id": 675871,
+    "title": "Super Troopers 3",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T05:34:25.532823+00:00",
+    "run_start_time": "2026-09-22T05:34:25.532823+00:00"
+  },
+  {
+    "tmdb_id": 1477712,
+    "title": "Ice Cream Man",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T05:34:25.532823+00:00",
+    "run_start_time": "2026-09-22T05:34:25.532823+00:00"
+  },
+  {
+    "tmdb_id": 1341138,
+    "title": "Spa Weekend",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T05:34:25.532823+00:00",
+    "run_start_time": "2026-09-22T05:34:25.532823+00:00"
   }
 ]
