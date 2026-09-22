@@ -1552,5 +1552,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-22T05:34:25.532823+00:00",
     "run_start_time": "2026-09-22T05:34:25.532823+00:00"
+  },
+  {
+    "tmdb_id": 82976,
+    "title": "The Novices",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-22T12:12:05.393357+00:00",
+    "run_start_time": "2026-09-22T12:12:05.393357+00:00"
+  },
+  {
+    "tmdb_id": 1061474,
+    "title": "Superman",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-22T12:12:05.393357+00:00",
+    "run_start_time": "2026-09-22T12:12:05.393357+00:00"
+  },
+  {
+    "tmdb_id": 1685882,
+    "title": "Modha Rathiri",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-09-22T12:12:05.393357+00:00",
+    "run_start_time": "2026-09-22T12:12:05.393357+00:00"
   }
 ]
