@@ -1573,5 +1573,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-22T12:12:05.393357+00:00",
     "run_start_time": "2026-09-22T12:12:05.393357+00:00"
+  },
+  {
+    "tmdb_id": 1284186,
+    "title": "Sacrifice",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-22T17:25:49.421496+00:00",
+    "run_start_time": "2026-09-22T17:25:49.421496+00:00"
+  },
+  {
+    "tmdb_id": 1284046,
+    "title": "Onslaught",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-22T17:25:49.421496+00:00",
+    "run_start_time": "2026-09-22T17:25:49.421496+00:00"
+  },
+  {
+    "tmdb_id": 1422011,
+    "title": "It Ends",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-22T17:25:49.421496+00:00",
+    "run_start_time": "2026-09-22T17:25:49.421496+00:00"
   }
 ]
