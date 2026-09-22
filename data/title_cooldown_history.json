@@ -1594,5 +1594,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-22T17:25:49.421496+00:00",
     "run_start_time": "2026-09-22T17:25:49.421496+00:00"
+  },
+  {
+    "tmdb_id": 1607127,
+    "title": "One Last Shot",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T21:43:56.831192+00:00",
+    "run_start_time": "2026-09-22T21:43:56.831192+00:00"
+  },
+  {
+    "tmdb_id": 445466,
+    "title": "Idiots",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T21:43:56.831192+00:00",
+    "run_start_time": "2026-09-22T21:43:56.831192+00:00"
+  },
+  {
+    "tmdb_id": 1514863,
+    "title": "Best of the Best",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-22T21:43:56.831192+00:00",
+    "run_start_time": "2026-09-22T21:43:56.831192+00:00"
   }
 ]
