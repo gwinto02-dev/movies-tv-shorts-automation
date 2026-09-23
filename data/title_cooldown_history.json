@@ -1615,5 +1615,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-22T21:43:56.831192+00:00",
     "run_start_time": "2026-09-22T21:43:56.831192+00:00"
+  },
+  {
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T05:22:19.688229+00:00",
+    "run_start_time": "2026-09-23T05:22:19.688229+00:00"
+  },
+  {
+    "tmdb_id": 1381273,
+    "title": "Paper Tiger",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T05:22:19.688229+00:00",
+    "run_start_time": "2026-09-23T05:22:19.688229+00:00"
+  },
+  {
+    "tmdb_id": 1140521,
+    "title": "The Magic Faraway Tree",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T05:22:19.688229+00:00",
+    "run_start_time": "2026-09-23T05:22:19.688229+00:00"
   }
 ]
