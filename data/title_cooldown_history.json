@@ -1678,5 +1678,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-23T17:33:10.201999+00:00",
     "run_start_time": "2026-09-23T17:33:10.201999+00:00"
+  },
+  {
+    "tmdb_id": 940009,
+    "title": "Ray Gunn",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T21:53:32.651585+00:00",
+    "run_start_time": "2026-09-23T21:53:32.651585+00:00"
+  },
+  {
+    "tmdb_id": 843352,
+    "title": "Legend of the White Dragon",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T21:53:32.651585+00:00",
+    "run_start_time": "2026-09-23T21:53:32.651585+00:00"
+  },
+  {
+    "tmdb_id": 1512084,
+    "title": "Baby Do Die Do",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-23T21:53:32.651585+00:00",
+    "run_start_time": "2026-09-23T21:53:32.651585+00:00"
   }
 ]
