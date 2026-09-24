@@ -1713,5 +1713,19 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-24T05:38:14.459432+00:00",
     "run_start_time": "2026-09-24T05:38:14.459432+00:00"
+  },
+  {
+    "tmdb_id": 1418428,
+    "title": "The Assassin(s)",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-24T12:24:17.701232+00:00",
+    "run_start_time": "2026-09-24T12:24:17.701232+00:00"
+  },
+  {
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-24T12:24:17.701232+00:00",
+    "run_start_time": "2026-09-24T12:24:17.701232+00:00"
   }
 ]
