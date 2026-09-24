@@ -1727,5 +1727,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-24T12:24:17.701232+00:00",
     "run_start_time": "2026-09-24T12:24:17.701232+00:00"
+  },
+  {
+    "tmdb_id": 423,
+    "title": "The Pianist",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-24T17:38:21.288459+00:00",
+    "run_start_time": "2026-09-24T17:38:21.288459+00:00"
+  },
+  {
+    "tmdb_id": 311,
+    "title": "Once Upon a Time in America",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-24T17:38:21.288459+00:00",
+    "run_start_time": "2026-09-24T17:38:21.288459+00:00"
+  },
+  {
+    "tmdb_id": 567,
+    "title": "Rear Window",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-24T17:38:21.288459+00:00",
+    "run_start_time": "2026-09-24T17:38:21.288459+00:00"
   }
 ]
