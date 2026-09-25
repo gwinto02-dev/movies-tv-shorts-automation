@@ -1811,5 +1811,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-09-25T12:24:11.677529+00:00",
     "run_start_time": "2026-09-25T12:24:11.677529+00:00"
+  },
+  {
+    "tmdb_id": 1492640,
+    "title": "UNABOMBER",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-25T17:37:42.573900+00:00",
+    "run_start_time": "2026-09-25T17:37:42.573900+00:00"
+  },
+  {
+    "tmdb_id": 1529372,
+    "title": "Don't Be Shy!",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-25T17:37:42.573900+00:00",
+    "run_start_time": "2026-09-25T17:37:42.573900+00:00"
+  },
+  {
+    "tmdb_id": 1382832,
+    "title": "Hungry",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-25T17:37:42.573900+00:00",
+    "run_start_time": "2026-09-25T17:37:42.573900+00:00"
   }
 ]
