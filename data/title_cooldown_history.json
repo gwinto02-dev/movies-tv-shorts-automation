@@ -1832,5 +1832,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-25T17:37:42.573900+00:00",
     "run_start_time": "2026-09-25T17:37:42.573900+00:00"
+  },
+  {
+    "tmdb_id": 105,
+    "title": "Back to the Future",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-25T21:53:56.178708+00:00",
+    "run_start_time": "2026-09-25T21:53:56.178708+00:00"
+  },
+  {
+    "tmdb_id": 73,
+    "title": "American History X",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-25T21:53:56.178708+00:00",
+    "run_start_time": "2026-09-25T21:53:56.178708+00:00"
+  },
+  {
+    "tmdb_id": 614945,
+    "title": "Voicemails for Isabelle",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-25T21:53:56.178708+00:00",
+    "run_start_time": "2026-09-25T21:53:56.178708+00:00"
   }
 ]
