@@ -1790,5 +1790,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-25T05:34:01.183212+00:00",
     "run_start_time": "2026-09-25T05:34:01.183212+00:00"
+  },
+  {
+    "tmdb_id": 26827,
+    "title": "Who's That Girl",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-25T12:24:11.677529+00:00",
+    "run_start_time": "2026-09-25T12:24:11.677529+00:00"
+  },
+  {
+    "tmdb_id": 205596,
+    "title": "The Imitation Game",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-25T12:24:11.677529+00:00",
+    "run_start_time": "2026-09-25T12:24:11.677529+00:00"
+  },
+  {
+    "tmdb_id": 150540,
+    "title": "Inside Out",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-25T12:24:11.677529+00:00",
+    "run_start_time": "2026-09-25T12:24:11.677529+00:00"
   }
 ]
