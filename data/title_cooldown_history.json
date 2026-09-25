@@ -1769,5 +1769,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-24T21:53:18.991217+00:00",
     "run_start_time": "2026-09-24T21:53:18.991217+00:00"
+  },
+  {
+    "tmdb_id": 1244492,
+    "title": "Look Back",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-25T05:34:01.183212+00:00",
+    "run_start_time": "2026-09-25T05:34:01.183212+00:00"
+  },
+  {
+    "tmdb_id": 101299,
+    "title": "The Hunger Games: Catching Fire",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-25T05:34:01.183212+00:00",
+    "run_start_time": "2026-09-25T05:34:01.183212+00:00"
+  },
+  {
+    "tmdb_id": 313369,
+    "title": "La La Land",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-25T05:34:01.183212+00:00",
+    "run_start_time": "2026-09-25T05:34:01.183212+00:00"
   }
 ]
