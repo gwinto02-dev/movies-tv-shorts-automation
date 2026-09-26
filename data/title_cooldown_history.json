@@ -1895,5 +1895,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-26T16:49:18.421681+00:00",
     "run_start_time": "2026-09-26T16:49:18.421681+00:00"
+  },
+  {
+    "tmdb_id": 335984,
+    "title": "Blade Runner 2049",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-26T21:41:53.495271+00:00",
+    "run_start_time": "2026-09-26T21:41:53.495271+00:00"
+  },
+  {
+    "tmdb_id": 475557,
+    "title": "Joker",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-26T21:41:53.495271+00:00",
+    "run_start_time": "2026-09-26T21:41:53.495271+00:00"
+  },
+  {
+    "tmdb_id": 591634,
+    "title": "False Positive",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-09-26T21:41:53.495271+00:00",
+    "run_start_time": "2026-09-26T21:41:53.495271+00:00"
   }
 ]
