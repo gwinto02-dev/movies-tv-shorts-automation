@@ -1937,5 +1937,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-27T21:43:55.290535+00:00",
     "run_start_time": "2026-09-27T21:43:55.290535+00:00"
+  },
+  {
+    "tmdb_id": 131634,
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-28T06:05:09.991937+00:00",
+    "run_start_time": "2026-09-28T06:05:09.991937+00:00"
+  },
+  {
+    "tmdb_id": 695721,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-28T06:05:09.991937+00:00",
+    "run_start_time": "2026-09-28T06:05:09.991937+00:00"
+  },
+  {
+    "tmdb_id": 1381027,
+    "title": "Good Boy",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-28T06:05:09.991937+00:00",
+    "run_start_time": "2026-09-28T06:05:09.991937+00:00"
   }
 ]
