@@ -1979,5 +1979,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-09-28T14:41:39.425083+00:00",
     "run_start_time": "2026-09-28T14:41:39.425083+00:00"
+  },
+  {
+    "tmdb_id": 1630423,
+    "title": "My Dearest Assassin",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-28T23:36:21.053373+00:00",
+    "run_start_time": "2026-09-28T23:36:21.053373+00:00"
+  },
+  {
+    "tmdb_id": 155,
+    "title": "The Dark Knight",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-28T23:36:21.053373+00:00",
+    "run_start_time": "2026-09-28T23:36:21.053373+00:00"
+  },
+  {
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-09-28T23:36:21.053373+00:00",
+    "run_start_time": "2026-09-28T23:36:21.053373+00:00"
   }
 ]
