@@ -2084,5 +2084,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-09-30T06:07:27.465354+00:00",
     "run_start_time": "2026-09-30T06:07:27.465354+00:00"
+  },
+  {
+    "tmdb_id": 1130948,
+    "title": "Rosebush Pruning",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-30T22:42:24.554290+00:00",
+    "run_start_time": "2026-09-30T22:42:24.554290+00:00"
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-30T22:42:24.554290+00:00",
+    "run_start_time": "2026-09-30T22:42:24.554290+00:00"
+  },
+  {
+    "tmdb_id": 1232569,
+    "title": "Pinocchio: Unstrung",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-09-30T22:42:24.554290+00:00",
+    "run_start_time": "2026-09-30T22:42:24.554290+00:00"
   }
 ]
