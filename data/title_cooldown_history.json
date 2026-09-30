@@ -2063,5 +2063,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-09-29T22:45:43.488385+00:00",
     "run_start_time": "2026-09-29T22:45:43.488385+00:00"
+  },
+  {
+    "tmdb_id": 1322562,
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-30T06:07:27.465354+00:00",
+    "run_start_time": "2026-09-30T06:07:27.465354+00:00"
+  },
+  {
+    "tmdb_id": 1767073,
+    "title": "The Nice Ones",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-30T06:07:27.465354+00:00",
+    "run_start_time": "2026-09-30T06:07:27.465354+00:00"
+  },
+  {
+    "tmdb_id": 1281331,
+    "title": "The Social Reckoning",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-09-30T06:07:27.465354+00:00",
+    "run_start_time": "2026-09-30T06:07:27.465354+00:00"
   }
 ]
