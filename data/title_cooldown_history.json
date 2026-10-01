@@ -2147,5 +2147,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-01T14:00:37.748400+00:00",
     "run_start_time": "2026-10-01T14:00:37.748400+00:00"
+  },
+  {
+    "tmdb_id": 1375646,
+    "title": "Colony",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-01T22:57:47.193385+00:00",
+    "run_start_time": "2026-10-01T22:57:47.193385+00:00"
+  },
+  {
+    "tmdb_id": 980431,
+    "title": "Avatar Aang: The Last Airbender",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-01T22:57:47.193385+00:00",
+    "run_start_time": "2026-10-01T22:57:47.193385+00:00"
+  },
+  {
+    "tmdb_id": 880067,
+    "title": "Strung",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-01T22:57:47.193385+00:00",
+    "run_start_time": "2026-10-01T22:57:47.193385+00:00"
   }
 ]
