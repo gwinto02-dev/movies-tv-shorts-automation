@@ -2126,5 +2126,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-01T06:40:53.430007+00:00",
     "run_start_time": "2026-10-01T06:40:53.430007+00:00"
+  },
+  {
+    "tmdb_id": 1437195,
+    "title": "Livestream from Hell",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-01T14:00:37.748400+00:00",
+    "run_start_time": "2026-10-01T14:00:37.748400+00:00"
+  },
+  {
+    "tmdb_id": 1763619,
+    "title": "Crazy Rich, Incredibly Broke",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-01T14:00:37.748400+00:00",
+    "run_start_time": "2026-10-01T14:00:37.748400+00:00"
+  },
+  {
+    "tmdb_id": 1255833,
+    "title": "Whalefall",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-01T14:00:37.748400+00:00",
+    "run_start_time": "2026-10-01T14:00:37.748400+00:00"
   }
 ]

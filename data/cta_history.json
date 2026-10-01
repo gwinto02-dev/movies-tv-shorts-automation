@@ -543,5 +543,10 @@
     "cta_style": "utility_framed",
     "text": "Which story grabs your attention first? Comment your pick and save this for movie night!",
     "timestamp": "2026-10-01T06:41:20.869920+00:00"
+  },
+  {
+    "cta_style": "direct_ask",
+    "text": "Which of these 3 are you watching first? Let me know in the comments!",
+    "timestamp": "2026-10-01T14:01:37.486254+00:00"
   }
 ]
