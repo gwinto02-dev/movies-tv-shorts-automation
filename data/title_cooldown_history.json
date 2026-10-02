@@ -2168,5 +2168,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-01T22:57:47.193385+00:00",
     "run_start_time": "2026-10-01T22:57:47.193385+00:00"
+  },
+  {
+    "tmdb_id": 126889,
+    "title": "Alien: Covenant",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-02T06:24:46.285708+00:00",
+    "run_start_time": "2026-10-02T06:24:46.285708+00:00"
+  },
+  {
+    "tmdb_id": 438631,
+    "title": "Dune",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-02T06:24:46.285708+00:00",
+    "run_start_time": "2026-10-02T06:24:46.285708+00:00"
+  },
+  {
+    "tmdb_id": 27205,
+    "title": "Inception",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-02T06:24:46.285708+00:00",
+    "run_start_time": "2026-10-02T06:24:46.285708+00:00"
   }
 ]
