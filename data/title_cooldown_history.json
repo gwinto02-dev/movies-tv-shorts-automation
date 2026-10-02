@@ -2189,5 +2189,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-02T06:24:46.285708+00:00",
     "run_start_time": "2026-10-02T06:24:46.285708+00:00"
+  },
+  {
+    "tmdb_id": 1458857,
+    "title": "Doing Life",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-02T13:19:15.994630+00:00",
+    "run_start_time": "2026-10-02T13:19:15.994630+00:00"
+  },
+  {
+    "tmdb_id": 1307118,
+    "title": "Soulm8te",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-02T13:19:15.994630+00:00",
+    "run_start_time": "2026-10-02T13:19:15.994630+00:00"
+  },
+  {
+    "tmdb_id": 1567605,
+    "title": "Ebenezer",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-02T13:19:15.994630+00:00",
+    "run_start_time": "2026-10-02T13:19:15.994630+00:00"
   }
 ]
