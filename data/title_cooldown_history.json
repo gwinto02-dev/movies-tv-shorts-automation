@@ -2231,5 +2231,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-02T22:39:50.838103+00:00",
     "run_start_time": "2026-10-02T22:39:50.838103+00:00"
+  },
+  {
+    "tmdb_id": 1393326,
+    "title": "Ghost in the Cell",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-03T05:54:04.772551+00:00",
+    "run_start_time": "2026-10-03T05:54:04.772551+00:00"
+  },
+  {
+    "tmdb_id": 1359,
+    "title": "American Psycho",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-03T05:54:04.772551+00:00",
+    "run_start_time": "2026-10-03T05:54:04.772551+00:00"
+  },
+  {
+    "tmdb_id": 940721,
+    "title": "Godzilla Minus One",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-03T05:54:04.772551+00:00",
+    "run_start_time": "2026-10-03T05:54:04.772551+00:00"
   }
 ]
