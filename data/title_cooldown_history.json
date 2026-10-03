@@ -2273,5 +2273,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-03T12:08:16.077380+00:00",
     "run_start_time": "2026-10-03T12:08:16.077380+00:00"
+  },
+  {
+    "tmdb_id": 1621552,
+    "title": "Facing El Chapo",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-03T16:50:55.887781+00:00",
+    "run_start_time": "2026-10-03T16:50:55.887781+00:00"
+  },
+  {
+    "tmdb_id": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-03T16:50:55.887781+00:00",
+    "run_start_time": "2026-10-03T16:50:55.887781+00:00"
+  },
+  {
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-03T16:50:55.887781+00:00",
+    "run_start_time": "2026-10-03T16:50:55.887781+00:00"
   }
 ]
