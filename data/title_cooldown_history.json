@@ -2336,5 +2336,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-10-04T06:30:51.568927+00:00",
     "run_start_time": "2026-10-04T06:30:51.568927+00:00"
+  },
+  {
+    "tmdb_id": 1336166,
+    "title": "Rolling Loud: The Movie",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-04T12:56:15.274184+00:00",
+    "run_start_time": "2026-10-04T12:56:15.274184+00:00"
+  },
+  {
+    "tmdb_id": 14836,
+    "title": "Coraline",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-04T12:56:15.274184+00:00",
+    "run_start_time": "2026-10-04T12:56:15.274184+00:00"
+  },
+  {
+    "tmdb_id": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-04T12:56:15.274184+00:00",
+    "run_start_time": "2026-10-04T12:56:15.274184+00:00"
   }
 ]
