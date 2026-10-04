@@ -2357,5 +2357,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-04T12:56:15.274184+00:00",
     "run_start_time": "2026-10-04T12:56:15.274184+00:00"
+  },
+  {
+    "tmdb_id": 1450404,
+    "title": "The Treehouse",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-04T17:12:08.899441+00:00",
+    "run_start_time": "2026-10-04T17:12:08.899441+00:00"
+  },
+  {
+    "tmdb_id": 1386315,
+    "title": "The Runner",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-04T17:12:08.899441+00:00",
+    "run_start_time": "2026-10-04T17:12:08.899441+00:00"
+  },
+  {
+    "tmdb_id": 348,
+    "title": "Alien",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-04T17:12:08.899441+00:00",
+    "run_start_time": "2026-10-04T17:12:08.899441+00:00"
   }
 ]
