@@ -2315,5 +2315,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-03T21:54:11.281399+00:00",
     "run_start_time": "2026-10-03T21:54:11.281399+00:00"
+  },
+  {
+    "tmdb_id": 1007757,
+    "title": "Swapped",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-04T06:30:51.568927+00:00",
+    "run_start_time": "2026-10-04T06:30:51.568927+00:00"
+  },
+  {
+    "tmdb_id": 10494,
+    "title": "Perfect Blue",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-04T06:30:51.568927+00:00",
+    "run_start_time": "2026-10-04T06:30:51.568927+00:00"
+  },
+  {
+    "tmdb_id": 207,
+    "title": "Dead Poets Society",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-04T06:30:51.568927+00:00",
+    "run_start_time": "2026-10-04T06:30:51.568927+00:00"
   }
 ]
