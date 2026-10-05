@@ -2378,5 +2378,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-04T17:12:08.899441+00:00",
     "run_start_time": "2026-10-04T17:12:08.899441+00:00"
+  },
+  {
+    "tmdb_id": 1084244,
+    "title": "Toy Story 5",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-05T15:23:46.203720+00:00",
+    "run_start_time": "2026-10-05T15:23:46.203720+00:00"
+  },
+  {
+    "tmdb_id": 1285366,
+    "title": "Shape of My Heart",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-05T15:23:46.203720+00:00",
+    "run_start_time": "2026-10-05T15:23:46.203720+00:00"
+  },
+  {
+    "tmdb_id": 1518257,
+    "title": "The Collector",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-05T15:23:46.203720+00:00",
+    "run_start_time": "2026-10-05T15:23:46.203720+00:00"
   }
 ]
