@@ -2441,5 +2441,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-06T07:00:15.292095+00:00",
     "run_start_time": "2026-10-06T07:00:15.292095+00:00"
+  },
+  {
+    "tmdb_id": 1269325,
+    "title": "Drishyam: The Conclusion",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-06T13:59:09.437391+00:00",
+    "run_start_time": "2026-10-06T13:59:09.437391+00:00"
+  },
+  {
+    "tmdb_id": 1491920,
+    "title": "Kung Fu Soccer",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-06T13:59:09.437391+00:00",
+    "run_start_time": "2026-10-06T13:59:09.437391+00:00"
+  },
+  {
+    "tmdb_id": 1788735,
+    "title": "Family Guy Happy Hell-o-ween",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-06T13:59:09.437391+00:00",
+    "run_start_time": "2026-10-06T13:59:09.437391+00:00"
   }
 ]
