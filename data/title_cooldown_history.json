@@ -2462,5 +2462,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-06T13:59:09.437391+00:00",
     "run_start_time": "2026-10-06T13:59:09.437391+00:00"
+  },
+  {
+    "tmdb_id": 101,
+    "title": "Léon: The Professional",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-06T22:50:32.718961+00:00",
+    "run_start_time": "2026-10-06T22:50:32.718961+00:00"
+  },
+  {
+    "tmdb_id": 1585,
+    "title": "It's a Wonderful Life",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-06T22:50:32.718961+00:00",
+    "run_start_time": "2026-10-06T22:50:32.718961+00:00"
+  },
+  {
+    "tmdb_id": 77338,
+    "title": "The Intouchables",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-06T22:50:32.718961+00:00",
+    "run_start_time": "2026-10-06T22:50:32.718961+00:00"
   }
 ]
