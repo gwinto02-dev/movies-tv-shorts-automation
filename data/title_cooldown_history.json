@@ -2483,5 +2483,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-10-06T22:50:32.718961+00:00",
     "run_start_time": "2026-10-06T22:50:32.718961+00:00"
+  },
+  {
+    "tmdb_id": 1285895,
+    "title": "Late Fame",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-07T06:40:42.572383+00:00",
+    "run_start_time": "2026-10-07T06:40:42.572383+00:00"
+  },
+  {
+    "tmdb_id": 1148365,
+    "title": "Matchbox the Movie",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-07T06:40:42.572383+00:00",
+    "run_start_time": "2026-10-07T06:40:42.572383+00:00"
+  },
+  {
+    "tmdb_id": 791523,
+    "title": "Wildwood",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-07T06:40:42.572383+00:00",
+    "run_start_time": "2026-10-07T06:40:42.572383+00:00"
   }
 ]
