@@ -2504,5 +2504,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-07T06:40:42.572383+00:00",
     "run_start_time": "2026-10-07T06:40:42.572383+00:00"
+  },
+  {
+    "tmdb_id": 1341284,
+    "title": "Missing Child Videotape",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-07T14:03:01.550944+00:00",
+    "run_start_time": "2026-10-07T14:03:01.550944+00:00"
+  },
+  {
+    "tmdb_id": 9479,
+    "title": "The Nightmare Before Christmas",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-07T14:03:01.550944+00:00",
+    "run_start_time": "2026-10-07T14:03:01.550944+00:00"
+  },
+  {
+    "tmdb_id": 1516698,
+    "title": "The Last Sunrise",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-07T14:03:01.550944+00:00",
+    "run_start_time": "2026-10-07T14:03:01.550944+00:00"
   }
 ]
