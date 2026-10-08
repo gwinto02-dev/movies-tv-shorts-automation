@@ -2567,5 +2567,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-08T06:46:53.390859+00:00",
     "run_start_time": "2026-10-08T06:46:53.390859+00:00"
+  },
+  {
+    "tmdb_id": 238,
+    "title": "The Godfather",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-08T14:09:44.700196+00:00",
+    "run_start_time": "2026-10-08T14:09:44.700196+00:00"
+  },
+  {
+    "tmdb_id": 687163,
+    "title": "Project Hail Mary",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-08T14:09:44.700196+00:00",
+    "run_start_time": "2026-10-08T14:09:44.700196+00:00"
+  },
+  {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-08T14:09:44.700196+00:00",
+    "run_start_time": "2026-10-08T14:09:44.700196+00:00"
   }
 ]
