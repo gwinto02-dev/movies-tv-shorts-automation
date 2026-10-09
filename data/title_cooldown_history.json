@@ -2644,5 +2644,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-09T13:58:42.998659+00:00",
     "run_start_time": "2026-10-09T13:58:42.998659+00:00"
+  },
+  {
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-09T23:03:59.433037+00:00",
+    "run_start_time": "2026-10-09T23:03:59.433037+00:00"
+  },
+  {
+    "tmdb_id": 1273221,
+    "title": "Scary Movie",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-09T23:03:59.433037+00:00",
+    "run_start_time": "2026-10-09T23:03:59.433037+00:00"
+  },
+  {
+    "tmdb_id": 1185806,
+    "title": "PAW Patrol: The Dino Movie",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-09T23:03:59.433037+00:00",
+    "run_start_time": "2026-10-09T23:03:59.433037+00:00"
   }
 ]
