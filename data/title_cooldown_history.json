@@ -2609,5 +2609,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-08T23:36:12.358390+00:00",
     "run_start_time": "2026-10-08T23:36:12.358390+00:00"
+  },
+  {
+    "tmdb_id": 389,
+    "title": "12 Angry Men",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-09T06:55:40.092461+00:00",
+    "run_start_time": "2026-10-09T06:55:40.092461+00:00"
+  },
+  {
+    "tmdb_id": 240,
+    "title": "The Godfather Part II",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-09T06:55:40.092461+00:00",
+    "run_start_time": "2026-10-09T06:55:40.092461+00:00"
+  },
+  {
+    "tmdb_id": 424,
+    "title": "Schindler's List",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-09T06:55:40.092461+00:00",
+    "run_start_time": "2026-10-09T06:55:40.092461+00:00"
   }
 ]
