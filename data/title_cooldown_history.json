@@ -2630,5 +2630,19 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-10-09T06:55:40.092461+00:00",
     "run_start_time": "2026-10-09T06:55:40.092461+00:00"
+  },
+  {
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-09T13:58:42.998659+00:00",
+    "run_start_time": "2026-10-09T13:58:42.998659+00:00"
+  },
+  {
+    "tmdb_id": 3933,
+    "title": "Corpse Bride",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-09T13:58:42.998659+00:00",
+    "run_start_time": "2026-10-09T13:58:42.998659+00:00"
   }
 ]
