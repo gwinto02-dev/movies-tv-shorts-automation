@@ -2686,5 +2686,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-10T06:31:05.566112+00:00",
     "run_start_time": "2026-10-10T06:31:05.566112+00:00"
+  },
+  {
+    "tmdb_id": 1742441,
+    "title": "V/H/S/Mixtape",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-10T13:08:50.051278+00:00",
+    "run_start_time": "2026-10-10T13:08:50.051278+00:00"
+  },
+  {
+    "tmdb_id": 1476746,
+    "title": "The Florist",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-10T13:08:50.051278+00:00",
+    "run_start_time": "2026-10-10T13:08:50.051278+00:00"
+  },
+  {
+    "tmdb_id": 1389172,
+    "title": "Reporting Live",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-10T13:08:50.051278+00:00",
+    "run_start_time": "2026-10-10T13:08:50.051278+00:00"
   }
 ]
