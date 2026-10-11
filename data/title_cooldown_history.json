@@ -2770,5 +2770,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-11T13:38:00.140774+00:00",
     "run_start_time": "2026-10-11T13:38:00.140774+00:00"
+  },
+  {
+    "tmdb_id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-11T22:34:40.873905+00:00",
+    "run_start_time": "2026-10-11T22:34:40.873905+00:00"
+  },
+  {
+    "tmdb_id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-11T22:34:40.873905+00:00",
+    "run_start_time": "2026-10-11T22:34:40.873905+00:00"
+  },
+  {
+    "tmdb_id": 1470424,
+    "title": "Virtual Assistant",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-11T22:34:40.873905+00:00",
+    "run_start_time": "2026-10-11T22:34:40.873905+00:00"
   }
 ]
