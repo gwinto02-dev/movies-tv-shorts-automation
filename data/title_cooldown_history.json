@@ -2812,5 +2812,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-12T06:43:23.721850+00:00",
     "run_start_time": "2026-10-12T06:43:23.721850+00:00"
+  },
+  {
+    "tmdb_id": 1101383,
+    "title": "The End of Oak Street",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-12T16:16:05.373859+00:00",
+    "run_start_time": "2026-10-12T16:16:05.373859+00:00"
+  },
+  {
+    "tmdb_id": 1610703,
+    "title": "Infirmary",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-12T16:16:05.373859+00:00",
+    "run_start_time": "2026-10-12T16:16:05.373859+00:00"
+  },
+  {
+    "tmdb_id": 1280738,
+    "title": "The Furious",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-12T16:16:05.373859+00:00",
+    "run_start_time": "2026-10-12T16:16:05.373859+00:00"
   }
 ]
