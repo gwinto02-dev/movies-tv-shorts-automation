@@ -713,5 +713,10 @@
     "cta_style": "direct_ask",
     "text": "Which one are you adding to your watchlist? Drop your answer and subscribe for daily movie picks!",
     "timestamp": "2026-10-12T16:16:19.192364+00:00"
+  },
+  {
+    "cta_style": "direct_ask",
+    "text": "Which of these three are you watching first? Drop a comment below and subscribe for daily picks!",
+    "timestamp": "2026-10-13T01:01:47.208642+00:00"
   }
 ]

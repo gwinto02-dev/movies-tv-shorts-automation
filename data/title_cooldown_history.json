@@ -2833,5 +2833,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-12T16:16:05.373859+00:00",
     "run_start_time": "2026-10-12T16:16:05.373859+00:00"
+  },
+  {
+    "tmdb_id": 1187326,
+    "title": "Tad and The Magic Lamp",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T01:01:33.650430+00:00",
+    "run_start_time": "2026-10-13T01:01:33.650430+00:00"
+  },
+  {
+    "tmdb_id": 1554956,
+    "title": "The Incomer",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T01:01:33.650430+00:00",
+    "run_start_time": "2026-10-13T01:01:33.650430+00:00"
+  },
+  {
+    "tmdb_id": 977942,
+    "title": "The Uprising",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T01:01:33.650430+00:00",
+    "run_start_time": "2026-10-13T01:01:33.650430+00:00"
   }
 ]
