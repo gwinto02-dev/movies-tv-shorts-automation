@@ -2854,5 +2854,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-13T01:01:33.650430+00:00",
     "run_start_time": "2026-10-13T01:01:33.650430+00:00"
+  },
+  {
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T14:40:24.789808+00:00",
+    "run_start_time": "2026-10-13T14:40:24.789808+00:00"
+  },
+  {
+    "tmdb_id": 1514026,
+    "title": "Buddy",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T14:40:24.789808+00:00",
+    "run_start_time": "2026-10-13T14:40:24.789808+00:00"
+  },
+  {
+    "tmdb_id": 1538497,
+    "title": "Hexed",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-13T14:40:24.789808+00:00",
+    "run_start_time": "2026-10-13T14:40:24.789808+00:00"
   }
 ]

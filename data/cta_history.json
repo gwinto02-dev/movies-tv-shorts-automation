@@ -718,5 +718,10 @@
     "cta_style": "direct_ask",
     "text": "Which of these three are you watching first? Drop a comment below and subscribe for daily picks!",
     "timestamp": "2026-10-13T01:01:47.208642+00:00"
+  },
+  {
+    "cta_style": "series_continuation",
+    "text": "Subscribe for daily top-tier movie and TV recommendations!",
+    "timestamp": "2026-10-13T14:42:42.442415+00:00"
   }
 ]
