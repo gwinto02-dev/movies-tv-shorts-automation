@@ -2959,5 +2959,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-14T17:41:16.866592+00:00",
     "run_start_time": "2026-10-14T17:41:16.866592+00:00"
+  },
+  {
+    "tmdb_id": 1381078,
+    "title": "Love of Your Life",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-14T21:59:33.108888+00:00",
+    "run_start_time": "2026-10-14T21:59:33.108888+00:00"
+  },
+  {
+    "tmdb_id": 1400940,
+    "title": "Clayface",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-14T21:59:33.108888+00:00",
+    "run_start_time": "2026-10-14T21:59:33.108888+00:00"
+  },
+  {
+    "tmdb_id": 1375161,
+    "title": "Don't Move",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-14T21:59:33.108888+00:00",
+    "run_start_time": "2026-10-14T21:59:33.108888+00:00"
   }
 ]
