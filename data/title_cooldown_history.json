@@ -2896,5 +2896,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-13T23:09:49.086231+00:00",
     "run_start_time": "2026-10-13T23:09:49.086231+00:00"
+  },
+  {
+    "tmdb_id": 30723,
+    "title": "Cavegirl",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-14T05:36:26.705477+00:00",
+    "run_start_time": "2026-10-14T05:36:26.705477+00:00"
+  },
+  {
+    "tmdb_id": 1482547,
+    "title": "Zip Wire",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-14T05:36:26.705477+00:00",
+    "run_start_time": "2026-10-14T05:36:26.705477+00:00"
+  },
+  {
+    "tmdb_id": 1032863,
+    "title": "The Love Hypothesis",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-14T05:36:26.705477+00:00",
+    "run_start_time": "2026-10-14T05:36:26.705477+00:00"
   }
 ]
