@@ -748,5 +748,10 @@
     "cta_style": "series_continuation",
     "text": "Subscribe for daily top-tier movie and TV recommendations!",
     "timestamp": "2026-10-14T21:59:45.739908+00:00"
+  },
+  {
+    "cta_style": "direct_ask",
+    "text": "Have you seen any of these? Drop your favorite in the comments!",
+    "timestamp": "2026-10-15T05:23:49.612855+00:00"
   }
 ]

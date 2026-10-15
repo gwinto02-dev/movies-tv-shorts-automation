@@ -2980,5 +2980,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-14T21:59:33.108888+00:00",
     "run_start_time": "2026-10-14T21:59:33.108888+00:00"
+  },
+  {
+    "tmdb_id": 1022789,
+    "title": "Inside Out 2",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-15T05:23:44.185884+00:00",
+    "run_start_time": "2026-10-15T05:23:44.185884+00:00"
+  },
+  {
+    "tmdb_id": 11,
+    "title": "Star Wars",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-15T05:23:44.185884+00:00",
+    "run_start_time": "2026-10-15T05:23:44.185884+00:00"
+  },
+  {
+    "tmdb_id": 1010581,
+    "title": "My Fault",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-15T05:23:44.185884+00:00",
+    "run_start_time": "2026-10-15T05:23:44.185884+00:00"
   }
 ]
