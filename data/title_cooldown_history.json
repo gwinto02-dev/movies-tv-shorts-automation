@@ -3043,5 +3043,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-15T17:27:50.219106+00:00",
     "run_start_time": "2026-10-15T17:27:50.219106+00:00"
+  },
+  {
+    "tmdb_id": 1623256,
+    "title": "The Storm",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-15T21:52:23.153945+00:00",
+    "run_start_time": "2026-10-15T21:52:23.153945+00:00"
+  },
+  {
+    "tmdb_id": 1234139,
+    "title": "Jailer 2",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-15T21:52:23.153945+00:00",
+    "run_start_time": "2026-10-15T21:52:23.153945+00:00"
+  },
+  {
+    "tmdb_id": 1375441,
+    "title": "Primetime",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-15T21:52:23.153945+00:00",
+    "run_start_time": "2026-10-15T21:52:23.153945+00:00"
   }
 ]
