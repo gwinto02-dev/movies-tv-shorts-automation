@@ -3085,5 +3085,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-16T05:15:16.705205+00:00",
     "run_start_time": "2026-10-16T05:15:16.705205+00:00"
+  },
+  {
+    "tmdb_id": 911430,
+    "title": "F1",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-16T11:59:54.645621+00:00",
+    "run_start_time": "2026-10-16T11:59:54.645621+00:00"
+  },
+  {
+    "tmdb_id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-16T11:59:54.645621+00:00",
+    "run_start_time": "2026-10-16T11:59:54.645621+00:00"
+  },
+  {
+    "tmdb_id": 85,
+    "title": "Raiders of the Lost Ark",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-16T11:59:54.645621+00:00",
+    "run_start_time": "2026-10-16T11:59:54.645621+00:00"
   }
 ]
