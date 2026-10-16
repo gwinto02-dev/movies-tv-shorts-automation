@@ -3127,5 +3127,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-16T17:04:02.981225+00:00",
     "run_start_time": "2026-10-16T17:04:02.981225+00:00"
+  },
+  {
+    "tmdb_id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-16T21:49:29.969924+00:00",
+    "run_start_time": "2026-10-16T21:49:29.969924+00:00"
+  },
+  {
+    "tmdb_id": 1156869,
+    "title": "Blaze of Love",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-16T21:49:29.969924+00:00",
+    "run_start_time": "2026-10-16T21:49:29.969924+00:00"
+  },
+  {
+    "tmdb_id": 417384,
+    "title": "Scary Stories to Tell in the Dark",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-16T21:49:29.969924+00:00",
+    "run_start_time": "2026-10-16T21:49:29.969924+00:00"
   }
 ]
