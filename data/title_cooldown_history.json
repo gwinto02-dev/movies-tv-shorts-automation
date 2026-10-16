@@ -3064,5 +3064,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-15T21:52:23.153945+00:00",
     "run_start_time": "2026-10-15T21:52:23.153945+00:00"
+  },
+  {
+    "tmdb_id": 1212763,
+    "title": "Evil Dead Burn",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-16T05:15:16.705205+00:00",
+    "run_start_time": "2026-10-16T05:15:16.705205+00:00"
+  },
+  {
+    "tmdb_id": 7340,
+    "title": "Carrie",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-16T05:15:16.705205+00:00",
+    "run_start_time": "2026-10-16T05:15:16.705205+00:00"
+  },
+  {
+    "tmdb_id": 1366,
+    "title": "Rocky",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-16T05:15:16.705205+00:00",
+    "run_start_time": "2026-10-16T05:15:16.705205+00:00"
   }
 ]
