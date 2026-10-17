@@ -3190,5 +3190,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-17T11:15:23.851532+00:00",
     "run_start_time": "2026-10-17T11:15:23.851532+00:00"
+  },
+  {
+    "tmdb_id": 361743,
+    "title": "Top Gun: Maverick",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T16:01:08.865776+00:00",
+    "run_start_time": "2026-10-17T16:01:08.865776+00:00"
+  },
+  {
+    "tmdb_id": 533535,
+    "title": "Deadpool & Wolverine",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T16:01:08.865776+00:00",
+    "run_start_time": "2026-10-17T16:01:08.865776+00:00"
+  },
+  {
+    "tmdb_id": 285,
+    "title": "Pirates of the Caribbean: At World's End",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T16:01:08.865776+00:00",
+    "run_start_time": "2026-10-17T16:01:08.865776+00:00"
   }
 ]
