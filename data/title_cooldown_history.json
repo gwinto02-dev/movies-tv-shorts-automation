@@ -3169,5 +3169,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-17T05:10:44.176615+00:00",
     "run_start_time": "2026-10-17T05:10:44.176615+00:00"
+  },
+  {
+    "tmdb_id": 24428,
+    "title": "The Avengers",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T11:15:23.851532+00:00",
+    "run_start_time": "2026-10-17T11:15:23.851532+00:00"
+  },
+  {
+    "tmdb_id": 549509,
+    "title": "The Brutalist",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T11:15:23.851532+00:00",
+    "run_start_time": "2026-10-17T11:15:23.851532+00:00"
+  },
+  {
+    "tmdb_id": 138843,
+    "title": "The Conjuring",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-17T11:15:23.851532+00:00",
+    "run_start_time": "2026-10-17T11:15:23.851532+00:00"
   }
 ]
