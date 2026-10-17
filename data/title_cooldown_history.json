@@ -3148,5 +3148,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-16T21:49:29.969924+00:00",
     "run_start_time": "2026-10-16T21:49:29.969924+00:00"
+  },
+  {
+    "tmdb_id": 1561726,
+    "title": "Masterplan",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-17T05:10:44.176615+00:00",
+    "run_start_time": "2026-10-17T05:10:44.176615+00:00"
+  },
+  {
+    "tmdb_id": 1288069,
+    "title": "Tenzing",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-17T05:10:44.176615+00:00",
+    "run_start_time": "2026-10-17T05:10:44.176615+00:00"
+  },
+  {
+    "tmdb_id": 1487317,
+    "title": "Therapy Done Right",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-17T05:10:44.176615+00:00",
+    "run_start_time": "2026-10-17T05:10:44.176615+00:00"
   }
 ]
