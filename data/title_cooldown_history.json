@@ -3288,5 +3288,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-18T16:12:36.533010+00:00",
     "run_start_time": "2026-10-18T16:12:36.533010+00:00"
+  },
+  {
+    "tmdb_id": 1184918,
+    "title": "The Wild Robot",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-18T21:09:45.325300+00:00",
+    "run_start_time": "2026-10-18T21:09:45.325300+00:00"
+  },
+  {
+    "tmdb_id": 967941,
+    "title": "Wicked: For Good",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-18T21:09:45.325300+00:00",
+    "run_start_time": "2026-10-18T21:09:45.325300+00:00"
+  },
+  {
+    "tmdb_id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-18T21:09:45.325300+00:00",
+    "run_start_time": "2026-10-18T21:09:45.325300+00:00"
   }
 ]
