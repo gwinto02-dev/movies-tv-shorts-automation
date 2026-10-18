@@ -3232,5 +3232,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-17T21:07:36.939772+00:00",
     "run_start_time": "2026-10-17T21:07:36.939772+00:00"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-18T05:15:41.035402+00:00",
+    "run_start_time": "2026-10-18T05:15:41.035402+00:00"
+  },
+  {
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-18T05:15:41.035402+00:00",
+    "run_start_time": "2026-10-18T05:15:41.035402+00:00"
+  },
+  {
+    "tmdb_id": 466272,
+    "title": "Once Upon a Time... in Hollywood",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-18T05:15:41.035402+00:00",
+    "run_start_time": "2026-10-18T05:15:41.035402+00:00"
   }
 ]
