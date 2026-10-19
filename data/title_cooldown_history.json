@@ -3323,5 +3323,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-19T14:08:57.481618+00:00",
     "run_start_time": "2026-10-19T14:08:57.481618+00:00"
+  },
+  {
+    "tmdb_id": 372058,
+    "title": "Your Name.",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-19T22:41:23.416628+00:00",
+    "run_start_time": "2026-10-19T22:41:23.416628+00:00"
+  },
+  {
+    "tmdb_id": 496243,
+    "title": "Parasite",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-19T22:41:23.416628+00:00",
+    "run_start_time": "2026-10-19T22:41:23.416628+00:00"
+  },
+  {
+    "tmdb_id": 680,
+    "title": "Pulp Fiction",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-19T22:41:23.416628+00:00",
+    "run_start_time": "2026-10-19T22:41:23.416628+00:00"
   }
 ]
