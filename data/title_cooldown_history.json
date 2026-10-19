@@ -3309,5 +3309,19 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-18T21:09:45.325300+00:00",
     "run_start_time": "2026-10-18T21:09:45.325300+00:00"
+  },
+  {
+    "tmdb_id": 1198654,
+    "title": "Bad Apples",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-19T14:08:57.481618+00:00",
+    "run_start_time": "2026-10-19T14:08:57.481618+00:00"
+  },
+  {
+    "tmdb_id": 1452110,
+    "title": "Clean Hands",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-19T14:08:57.481618+00:00",
+    "run_start_time": "2026-10-19T14:08:57.481618+00:00"
   }
 ]
