@@ -3428,5 +3428,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-20T21:59:23.030262+00:00",
     "run_start_time": "2026-10-20T21:59:23.030262+00:00"
+  },
+  {
+    "tmdb_id": 1170608,
+    "title": "Dune: Part Three",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-21T05:30:46.659949+00:00",
+    "run_start_time": "2026-10-21T05:30:46.659949+00:00"
+  },
+  {
+    "tmdb_id": 1440050,
+    "title": "The Breadwinner",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-21T05:30:46.659949+00:00",
+    "run_start_time": "2026-10-21T05:30:46.659949+00:00"
+  },
+  {
+    "tmdb_id": 15196,
+    "title": "Clue",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-21T05:30:46.659949+00:00",
+    "run_start_time": "2026-10-21T05:30:46.659949+00:00"
   }
 ]
