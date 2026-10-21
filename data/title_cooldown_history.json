@@ -3470,5 +3470,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-10-21T12:32:25.648248+00:00",
     "run_start_time": "2026-10-21T12:32:25.648248+00:00"
+  },
+  {
+    "tmdb_id": 460458,
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-21T17:45:16.171810+00:00",
+    "run_start_time": "2026-10-21T17:45:16.171810+00:00"
+  },
+  {
+    "tmdb_id": 44629,
+    "title": "Animal Kingdom",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-21T17:45:16.171810+00:00",
+    "run_start_time": "2026-10-21T17:45:16.171810+00:00"
+  },
+  {
+    "tmdb_id": 787747,
+    "title": "Shell",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-21T17:45:16.171810+00:00",
+    "run_start_time": "2026-10-21T17:45:16.171810+00:00"
   }
 ]
