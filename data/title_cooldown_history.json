@@ -3491,5 +3491,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-21T17:45:16.171810+00:00",
     "run_start_time": "2026-10-21T17:45:16.171810+00:00"
+  },
+  {
+    "tmdb_id": 1380417,
+    "title": "By Any Means",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T05:34:44.457909+00:00",
+    "run_start_time": "2026-10-22T05:34:44.457909+00:00"
+  },
+  {
+    "tmdb_id": 1477712,
+    "title": "Ice Cream Man",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T05:34:44.457909+00:00",
+    "run_start_time": "2026-10-22T05:34:44.457909+00:00"
+  },
+  {
+    "tmdb_id": 62,
+    "title": "2001: A Space Odyssey",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T05:34:44.457909+00:00",
+    "run_start_time": "2026-10-22T05:34:44.457909+00:00"
   }
 ]
