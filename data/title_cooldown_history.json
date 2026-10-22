@@ -3554,5 +3554,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-22T18:15:20.554916+00:00",
     "run_start_time": "2026-10-22T18:15:20.554916+00:00"
+  },
+  {
+    "tmdb_id": 1195803,
+    "title": "Wicker",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T22:25:13.515351+00:00",
+    "run_start_time": "2026-10-22T22:25:13.515351+00:00"
+  },
+  {
+    "tmdb_id": 694,
+    "title": "The Shining",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T22:25:13.515351+00:00",
+    "run_start_time": "2026-10-22T22:25:13.515351+00:00"
+  },
+  {
+    "tmdb_id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-22T22:25:13.515351+00:00",
+    "run_start_time": "2026-10-22T22:25:13.515351+00:00"
   }
 ]
