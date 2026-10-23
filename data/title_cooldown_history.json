@@ -3575,5 +3575,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-22T22:25:13.515351+00:00",
     "run_start_time": "2026-10-22T22:25:13.515351+00:00"
+  },
+  {
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-23T05:32:44.593214+00:00",
+    "run_start_time": "2026-10-23T05:32:44.593214+00:00"
+  },
+  {
+    "tmdb_id": 446893,
+    "title": "Trolls World Tour",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-23T05:32:44.593214+00:00",
+    "run_start_time": "2026-10-23T05:32:44.593214+00:00"
+  },
+  {
+    "tmdb_id": 1607127,
+    "title": "One Last Shot",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-23T05:32:44.593214+00:00",
+    "run_start_time": "2026-10-23T05:32:44.593214+00:00"
   }
 ]
