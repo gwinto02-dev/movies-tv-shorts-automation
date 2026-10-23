@@ -3638,5 +3638,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-23T18:02:30.973988+00:00",
     "run_start_time": "2026-10-23T18:02:30.973988+00:00"
+  },
+  {
+    "tmdb_id": 1780005,
+    "title": "Surviving Hurricane Otis",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-23T21:45:22.357291+00:00",
+    "run_start_time": "2026-10-23T21:45:22.357291+00:00"
+  },
+  {
+    "tmdb_id": 1453407,
+    "title": "Gajab Raat",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-23T21:45:22.357291+00:00",
+    "run_start_time": "2026-10-23T21:45:22.357291+00:00"
+  },
+  {
+    "tmdb_id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-23T21:45:22.357291+00:00",
+    "run_start_time": "2026-10-23T21:45:22.357291+00:00"
   }
 ]
