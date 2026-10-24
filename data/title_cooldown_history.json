@@ -3659,5 +3659,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-23T21:45:22.357291+00:00",
     "run_start_time": "2026-10-23T21:45:22.357291+00:00"
+  },
+  {
+    "tmdb_id": 1368166,
+    "title": "The Housemaid",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-24T05:12:06.696166+00:00",
+    "run_start_time": "2026-10-24T05:12:06.696166+00:00"
+  },
+  {
+    "tmdb_id": 1226863,
+    "title": "The Super Mario Galaxy Movie",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-24T05:12:06.696166+00:00",
+    "run_start_time": "2026-10-24T05:12:06.696166+00:00"
+  },
+  {
+    "tmdb_id": 4488,
+    "title": "Friday the 13th",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-10-24T05:12:06.696166+00:00",
+    "run_start_time": "2026-10-24T05:12:06.696166+00:00"
   }
 ]
