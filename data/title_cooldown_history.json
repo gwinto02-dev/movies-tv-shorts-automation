@@ -3680,5 +3680,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-10-24T05:12:06.696166+00:00",
     "run_start_time": "2026-10-24T05:12:06.696166+00:00"
+  },
+  {
+    "tmdb_id": 1567937,
+    "title": "V",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-24T11:42:49.941213+00:00",
+    "run_start_time": "2026-10-24T11:42:49.941213+00:00"
+  },
+  {
+    "tmdb_id": 1290418,
+    "title": "The Cycle",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-24T11:42:49.941213+00:00",
+    "run_start_time": "2026-10-24T11:42:49.941213+00:00"
+  },
+  {
+    "tmdb_id": 1371730,
+    "title": "Love Language",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-24T11:42:49.941213+00:00",
+    "run_start_time": "2026-10-24T11:42:49.941213+00:00"
   }
 ]
