@@ -3722,5 +3722,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-10-24T16:20:10.443460+00:00",
     "run_start_time": "2026-10-24T16:20:10.443460+00:00"
+  },
+  {
+    "tmdb_id": 1401459,
+    "title": "Fjord",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-24T21:18:19.896249+00:00",
+    "run_start_time": "2026-10-24T21:18:19.896249+00:00"
+  },
+  {
+    "tmdb_id": 1458099,
+    "title": "The Only Living Pickpocket in New York",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-24T21:18:19.896249+00:00",
+    "run_start_time": "2026-10-24T21:18:19.896249+00:00"
+  },
+  {
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-10-24T21:18:19.896249+00:00",
+    "run_start_time": "2026-10-24T21:18:19.896249+00:00"
   }
 ]
