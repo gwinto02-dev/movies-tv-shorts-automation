@@ -3701,5 +3701,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-24T11:42:49.941213+00:00",
     "run_start_time": "2026-10-24T11:42:49.941213+00:00"
+  },
+  {
+    "tmdb_id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-24T16:20:10.443460+00:00",
+    "run_start_time": "2026-10-24T16:20:10.443460+00:00"
+  },
+  {
+    "tmdb_id": 1096228,
+    "title": "Musk",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-24T16:20:10.443460+00:00",
+    "run_start_time": "2026-10-24T16:20:10.443460+00:00"
+  },
+  {
+    "tmdb_id": 843352,
+    "title": "Legend of the White Dragon",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-24T16:20:10.443460+00:00",
+    "run_start_time": "2026-10-24T16:20:10.443460+00:00"
   }
 ]
