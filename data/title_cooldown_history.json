@@ -3764,5 +3764,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-25T05:28:43.296103+00:00",
     "run_start_time": "2026-10-25T05:28:43.296103+00:00"
+  },
+  {
+    "tmdb_id": 539,
+    "title": "Psycho",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-25T12:11:42.845571+00:00",
+    "run_start_time": "2026-10-25T12:11:42.845571+00:00"
+  },
+  {
+    "tmdb_id": 510,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-25T12:11:42.845571+00:00",
+    "run_start_time": "2026-10-25T12:11:42.845571+00:00"
+  },
+  {
+    "tmdb_id": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-25T12:11:42.845571+00:00",
+    "run_start_time": "2026-10-25T12:11:42.845571+00:00"
   }
 ]
