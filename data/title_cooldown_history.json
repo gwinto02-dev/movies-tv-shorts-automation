@@ -3743,5 +3743,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-24T21:18:19.896249+00:00",
     "run_start_time": "2026-10-24T21:18:19.896249+00:00"
+  },
+  {
+    "tmdb_id": 1657630,
+    "title": "The Awakening",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-25T05:28:43.296103+00:00",
+    "run_start_time": "2026-10-25T05:28:43.296103+00:00"
+  },
+  {
+    "tmdb_id": 1476614,
+    "title": "All of a Sudden",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-25T05:28:43.296103+00:00",
+    "run_start_time": "2026-10-25T05:28:43.296103+00:00"
+  },
+  {
+    "tmdb_id": 1110034,
+    "title": "Kraken",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-10-25T05:28:43.296103+00:00",
+    "run_start_time": "2026-10-25T05:28:43.296103+00:00"
   }
 ]
