@@ -3848,5 +3848,26 @@
     "concept_type": "Underrated Trio",
     "timestamp": "2026-10-26T05:55:19.953736+00:00",
     "run_start_time": "2026-10-26T05:55:19.953736+00:00"
+  },
+  {
+    "tmdb_id": 597,
+    "title": "Titanic",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-26T13:42:36.294318+00:00",
+    "run_start_time": "2026-10-26T13:42:36.294318+00:00"
+  },
+  {
+    "tmdb_id": 557,
+    "title": "Spider-Man",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-26T13:42:36.294318+00:00",
+    "run_start_time": "2026-10-26T13:42:36.294318+00:00"
+  },
+  {
+    "tmdb_id": 1327819,
+    "title": "Hoppers",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-10-26T13:42:36.294318+00:00",
+    "run_start_time": "2026-10-26T13:42:36.294318+00:00"
   }
 ]
