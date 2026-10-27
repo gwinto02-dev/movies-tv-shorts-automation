@@ -3883,5 +3883,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-26T22:56:23.257053+00:00",
     "run_start_time": "2026-10-26T22:56:23.257053+00:00"
+  },
+  {
+    "tmdb_id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-27T05:47:57.556233+00:00",
+    "run_start_time": "2026-10-27T05:47:57.556233+00:00"
+  },
+  {
+    "tmdb_id": 1419406,
+    "title": "The Shadow's Edge",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-27T05:47:57.556233+00:00",
+    "run_start_time": "2026-10-27T05:47:57.556233+00:00"
+  },
+  {
+    "tmdb_id": 105,
+    "title": "Back to the Future",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-27T05:47:57.556233+00:00",
+    "run_start_time": "2026-10-27T05:47:57.556233+00:00"
   }
 ]
