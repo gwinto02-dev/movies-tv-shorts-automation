@@ -4072,5 +4072,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-30T13:42:22.477910+00:00",
     "run_start_time": "2026-10-30T13:42:22.477910+00:00"
+  },
+  {
+    "tmdb_id": 3782,
+    "title": "Ikiru",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T22:43:06.822084+00:00",
+    "run_start_time": "2026-10-30T22:43:06.822084+00:00"
+  },
+  {
+    "tmdb_id": 1317149,
+    "title": "I Swear",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T22:43:06.822084+00:00",
+    "run_start_time": "2026-10-30T22:43:06.822084+00:00"
+  },
+  {
+    "tmdb_id": 335,
+    "title": "Once Upon a Time in the West",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T22:43:06.822084+00:00",
+    "run_start_time": "2026-10-30T22:43:06.822084+00:00"
   }
 ]
