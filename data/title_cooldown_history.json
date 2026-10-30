@@ -4030,5 +4030,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-10-29T13:48:56.622298+00:00",
     "run_start_time": "2026-10-29T13:48:56.622298+00:00"
+  },
+  {
+    "tmdb_id": 14537,
+    "title": "Harakiri",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T06:36:34.217003+00:00",
+    "run_start_time": "2026-10-30T06:36:34.217003+00:00"
+  },
+  {
+    "tmdb_id": 73,
+    "title": "American History X",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T06:36:34.217003+00:00",
+    "run_start_time": "2026-10-30T06:36:34.217003+00:00"
+  },
+  {
+    "tmdb_id": 128,
+    "title": "Princess Mononoke",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-10-30T06:36:34.217003+00:00",
+    "run_start_time": "2026-10-30T06:36:34.217003+00:00"
   }
 ]
