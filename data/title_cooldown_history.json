@@ -4135,5 +4135,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-10-31T13:11:12.792018+00:00",
     "run_start_time": "2026-10-31T13:11:12.792018+00:00"
+  },
+  {
+    "tmdb_id": 1375646,
+    "title": "Colony",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-01T06:59:13.499207+00:00",
+    "run_start_time": "2026-11-01T06:59:13.499207+00:00"
+  },
+  {
+    "tmdb_id": 1255833,
+    "title": "Whalefall",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-01T06:59:13.499207+00:00",
+    "run_start_time": "2026-11-01T06:59:13.499207+00:00"
+  },
+  {
+    "tmdb_id": 1523145,
+    "title": "Your Heart Will Be Broken",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-01T06:59:13.499207+00:00",
+    "run_start_time": "2026-11-01T06:59:13.499207+00:00"
   }
 ]
