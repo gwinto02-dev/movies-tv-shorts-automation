@@ -4156,5 +4156,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-11-01T06:59:13.499207+00:00",
     "run_start_time": "2026-11-01T06:59:13.499207+00:00"
+  },
+  {
+    "tmdb_id": 1813355,
+    "title": "A Story of Derry",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-01T14:03:05.358452+00:00",
+    "run_start_time": "2026-11-01T14:03:05.358452+00:00"
+  },
+  {
+    "tmdb_id": 980431,
+    "title": "Avatar Aang: The Last Airbender",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-01T14:03:05.358452+00:00",
+    "run_start_time": "2026-11-01T14:03:05.358452+00:00"
+  },
+  {
+    "tmdb_id": 624860,
+    "title": "The Matrix Resurrections",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-01T14:03:05.358452+00:00",
+    "run_start_time": "2026-11-01T14:03:05.358452+00:00"
   }
 ]
