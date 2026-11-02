@@ -4198,5 +4198,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-01T22:31:45.884512+00:00",
     "run_start_time": "2026-11-01T22:31:45.884512+00:00"
+  },
+  {
+    "tmdb_id": 27205,
+    "title": "Inception",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-02T06:58:53.584121+00:00",
+    "run_start_time": "2026-11-02T06:58:53.584121+00:00"
+  },
+  {
+    "tmdb_id": 28,
+    "title": "Apocalypse Now",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-02T06:58:53.584121+00:00",
+    "run_start_time": "2026-11-02T06:58:53.584121+00:00"
+  },
+  {
+    "tmdb_id": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-02T06:58:53.584121+00:00",
+    "run_start_time": "2026-11-02T06:58:53.584121+00:00"
   }
 ]
