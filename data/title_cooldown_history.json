@@ -4261,5 +4261,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-03T01:24:04.289370+00:00",
     "run_start_time": "2026-11-03T01:24:04.289370+00:00"
+  },
+  {
+    "tmdb_id": 1712451,
+    "title": "Resident Dead",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-03T14:44:52.088683+00:00",
+    "run_start_time": "2026-11-03T14:44:52.088683+00:00"
+  },
+  {
+    "tmdb_id": 1128204,
+    "title": "Feed",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-03T14:44:52.088683+00:00",
+    "run_start_time": "2026-11-03T14:44:52.088683+00:00"
+  },
+  {
+    "tmdb_id": 14836,
+    "title": "Coraline",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-03T14:44:52.088683+00:00",
+    "run_start_time": "2026-11-03T14:44:52.088683+00:00"
   }
 ]
