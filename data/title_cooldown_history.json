@@ -4324,5 +4324,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-04T07:04:07.565532+00:00",
     "run_start_time": "2026-11-04T07:04:07.565532+00:00"
+  },
+  {
+    "tmdb_id": 1084244,
+    "title": "Toy Story 5",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-04T20:08:39.351989+00:00",
+    "run_start_time": "2026-11-04T20:08:39.351989+00:00"
+  },
+  {
+    "tmdb_id": 1393056,
+    "title": "Mickey's Slayhouse",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-04T20:08:39.351989+00:00",
+    "run_start_time": "2026-11-04T20:08:39.351989+00:00"
+  },
+  {
+    "tmdb_id": 494656,
+    "title": "The Legend of the Black Charro",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-04T20:08:39.351989+00:00",
+    "run_start_time": "2026-11-04T20:08:39.351989+00:00"
   }
 ]
