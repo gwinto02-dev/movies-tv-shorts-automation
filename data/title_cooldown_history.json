@@ -4366,5 +4366,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-05T07:30:27.771673+00:00",
     "run_start_time": "2026-11-05T07:30:27.771673+00:00"
+  },
+  {
+    "tmdb_id": 1792170,
+    "title": "Model Citizen",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-05T20:23:09.632291+00:00",
+    "run_start_time": "2026-11-05T20:23:09.632291+00:00"
+  },
+  {
+    "tmdb_id": 1654940,
+    "title": "One Year to Live, Buy a Man",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-05T20:23:09.632291+00:00",
+    "run_start_time": "2026-11-05T20:23:09.632291+00:00"
+  },
+  {
+    "tmdb_id": 1630420,
+    "title": "Overacting",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-05T20:23:09.632291+00:00",
+    "run_start_time": "2026-11-05T20:23:09.632291+00:00"
   }
 ]
