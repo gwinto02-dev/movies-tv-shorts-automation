@@ -4387,5 +4387,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-05T20:23:09.632291+00:00",
     "run_start_time": "2026-11-05T20:23:09.632291+00:00"
+  },
+  {
+    "tmdb_id": 791523,
+    "title": "Wildwood",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-06T07:58:21.761780+00:00",
+    "run_start_time": "2026-11-06T07:58:21.761780+00:00"
+  },
+  {
+    "tmdb_id": 1148365,
+    "title": "Matchbox the Movie",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-06T07:58:21.761780+00:00",
+    "run_start_time": "2026-11-06T07:58:21.761780+00:00"
+  },
+  {
+    "tmdb_id": 1108427,
+    "title": "Moana",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-06T07:58:21.761780+00:00",
+    "run_start_time": "2026-11-06T07:58:21.761780+00:00"
   }
 ]
