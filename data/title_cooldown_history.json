@@ -4513,5 +4513,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-08T06:48:41.496631+00:00",
     "run_start_time": "2026-11-08T06:48:41.496631+00:00"
+  },
+  {
+    "tmdb_id": 238,
+    "title": "The Godfather",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-08T13:57:40.455586+00:00",
+    "run_start_time": "2026-11-08T13:57:40.455586+00:00"
+  },
+  {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-08T13:57:40.455586+00:00",
+    "run_start_time": "2026-11-08T13:57:40.455586+00:00"
+  },
+  {
+    "tmdb_id": 389,
+    "title": "12 Angry Men",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-08T13:57:40.455586+00:00",
+    "run_start_time": "2026-11-08T13:57:40.455586+00:00"
   }
 ]
