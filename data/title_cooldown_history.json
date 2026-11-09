@@ -4576,5 +4576,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-09T07:23:11.713562+00:00",
     "run_start_time": "2026-11-09T07:23:11.713562+00:00"
+  },
+  {
+    "tmdb_id": 1616419,
+    "title": "The Good Lawyer",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-09T22:46:44.389907+00:00",
+    "run_start_time": "2026-11-09T22:46:44.389907+00:00"
+  },
+  {
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-09T22:46:44.389907+00:00",
+    "run_start_time": "2026-11-09T22:46:44.389907+00:00"
+  },
+  {
+    "tmdb_id": 1294189,
+    "title": "The Mongoose",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-09T22:46:44.389907+00:00",
+    "run_start_time": "2026-11-09T22:46:44.389907+00:00"
   }
 ]
