@@ -4597,5 +4597,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-09T22:46:44.389907+00:00",
     "run_start_time": "2026-11-09T22:46:44.389907+00:00"
+  },
+  {
+    "tmdb_id": 240,
+    "title": "The Godfather Part II",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-10T07:52:07.772903+00:00",
+    "run_start_time": "2026-11-10T07:52:07.772903+00:00"
+  },
+  {
+    "tmdb_id": 424,
+    "title": "Schindler's List",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-10T07:52:07.772903+00:00",
+    "run_start_time": "2026-11-10T07:52:07.772903+00:00"
+  },
+  {
+    "tmdb_id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-10T07:52:07.772903+00:00",
+    "run_start_time": "2026-11-10T07:52:07.772903+00:00"
   }
 ]
