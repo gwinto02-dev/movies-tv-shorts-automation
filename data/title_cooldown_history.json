@@ -4681,5 +4681,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-11-11T19:55:27.359972+00:00",
     "run_start_time": "2026-11-11T19:55:27.359972+00:00"
+  },
+  {
+    "tmdb_id": 1204680,
+    "title": "Coyote vs. Acme",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-12T07:50:48.577907+00:00",
+    "run_start_time": "2026-11-12T07:50:48.577907+00:00"
+  },
+  {
+    "tmdb_id": 1302904,
+    "title": "Practical Magic 2",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-12T07:50:48.577907+00:00",
+    "run_start_time": "2026-11-12T07:50:48.577907+00:00"
+  },
+  {
+    "tmdb_id": 1476746,
+    "title": "The Florist",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-12T07:50:48.577907+00:00",
+    "run_start_time": "2026-11-12T07:50:48.577907+00:00"
   }
 ]
