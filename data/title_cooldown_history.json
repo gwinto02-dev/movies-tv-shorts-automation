@@ -4702,5 +4702,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-12T07:50:48.577907+00:00",
     "run_start_time": "2026-11-12T07:50:48.577907+00:00"
+  },
+  {
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-12T20:32:27.839700+00:00",
+    "run_start_time": "2026-11-12T20:32:27.839700+00:00"
+  },
+  {
+    "tmdb_id": 1514026,
+    "title": "Buddy",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-12T20:32:27.839700+00:00",
+    "run_start_time": "2026-11-12T20:32:27.839700+00:00"
+  },
+  {
+    "tmdb_id": 1644210,
+    "title": "Robotica",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-12T20:32:27.839700+00:00",
+    "run_start_time": "2026-11-12T20:32:27.839700+00:00"
   }
 ]
