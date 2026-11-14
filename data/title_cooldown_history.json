@@ -4744,5 +4744,19 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-13T07:27:44.481405+00:00",
     "run_start_time": "2026-11-13T07:27:44.481405+00:00"
+  },
+  {
+    "tmdb_id": 1616687,
+    "title": "Never Surrender",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-14T07:09:03.573025+00:00",
+    "run_start_time": "2026-11-14T07:09:03.573025+00:00"
+  },
+  {
+    "tmdb_id": 1400940,
+    "title": "Clayface",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-14T07:09:03.573025+00:00",
+    "run_start_time": "2026-11-14T07:09:03.573025+00:00"
   }
 ]
