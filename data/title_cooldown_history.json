@@ -4800,5 +4800,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-14T22:48:28.199340+00:00",
     "run_start_time": "2026-11-14T22:48:28.199340+00:00"
+  },
+  {
+    "tmdb_id": 1234139,
+    "title": "Jailer 2",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-15T07:19:49.873281+00:00",
+    "run_start_time": "2026-11-15T07:19:49.873281+00:00"
+  },
+  {
+    "tmdb_id": 1375441,
+    "title": "Primetime",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-15T07:19:49.873281+00:00",
+    "run_start_time": "2026-11-15T07:19:49.873281+00:00"
+  },
+  {
+    "tmdb_id": 1673439,
+    "title": "Red Days 2: Cecilia",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-15T07:19:49.873281+00:00",
+    "run_start_time": "2026-11-15T07:19:49.873281+00:00"
   }
 ]
