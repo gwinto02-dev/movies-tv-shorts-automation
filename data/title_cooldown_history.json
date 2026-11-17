@@ -4884,5 +4884,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-11-16T22:38:09.609465+00:00",
     "run_start_time": "2026-11-16T22:38:09.609465+00:00"
+  },
+  {
+    "tmdb_id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-17T08:39:27.249410+00:00",
+    "run_start_time": "2026-11-17T08:39:27.249410+00:00"
+  },
+  {
+    "tmdb_id": 497,
+    "title": "The Green Mile",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-17T08:39:27.249410+00:00",
+    "run_start_time": "2026-11-17T08:39:27.249410+00:00"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-17T08:39:27.249410+00:00",
+    "run_start_time": "2026-11-17T08:39:27.249410+00:00"
   }
 ]
