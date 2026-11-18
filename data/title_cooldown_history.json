@@ -4947,5 +4947,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-18T08:02:03.524782+00:00",
     "run_start_time": "2026-11-18T08:02:03.524782+00:00"
+  },
+  {
+    "tmdb_id": 1551025,
+    "title": "Guarding Stars",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-18T20:58:38.940914+00:00",
+    "run_start_time": "2026-11-18T20:58:38.940914+00:00"
+  },
+  {
+    "tmdb_id": 1131943,
+    "title": "Madden",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-18T20:58:38.940914+00:00",
+    "run_start_time": "2026-11-18T20:58:38.940914+00:00"
+  },
+  {
+    "tmdb_id": 1538497,
+    "title": "Hexed",
+    "concept_type": "Trending Trio",
+    "timestamp": "2026-11-18T20:58:38.940914+00:00",
+    "run_start_time": "2026-11-18T20:58:38.940914+00:00"
   }
 ]

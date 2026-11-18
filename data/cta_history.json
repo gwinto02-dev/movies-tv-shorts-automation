@@ -1223,5 +1223,10 @@
     "cta_style": "direct_ask",
     "text": "Which of these matches your mood tonight? Drop a comment below and hit subscribe for daily film picks!",
     "timestamp": "2026-11-18T08:09:14.814366+00:00"
+  },
+  {
+    "cta_style": "series_continuation",
+    "text": "Subscribe for daily top-tier movie and TV recommendations!",
+    "timestamp": "2026-11-18T21:01:02.136438+00:00"
   }
 ]
