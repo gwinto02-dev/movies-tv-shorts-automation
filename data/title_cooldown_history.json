@@ -5024,5 +5024,26 @@
     "concept_type": "Decade Spotlight Trio",
     "timestamp": "2026-11-20T07:53:20.190203+00:00",
     "run_start_time": "2026-11-20T07:53:20.190203+00:00"
+  },
+  {
+    "tmdb_id": 693134,
+    "title": "Dune: Part Two",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-20T20:50:37.639039+00:00",
+    "run_start_time": "2026-11-20T20:50:37.639039+00:00"
+  },
+  {
+    "tmdb_id": 1381273,
+    "title": "Paper Tiger",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-20T20:50:37.639039+00:00",
+    "run_start_time": "2026-11-20T20:50:37.639039+00:00"
+  },
+  {
+    "tmdb_id": 1170608,
+    "title": "Dune: Part Three",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-20T20:50:37.639039+00:00",
+    "run_start_time": "2026-11-20T20:50:37.639039+00:00"
   }
 ]
