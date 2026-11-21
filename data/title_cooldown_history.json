@@ -5045,5 +5045,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-20T20:50:37.639039+00:00",
     "run_start_time": "2026-11-20T20:50:37.639039+00:00"
+  },
+  {
+    "tmdb_id": 1726,
+    "title": "Iron Man",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-21T07:49:43.113788+00:00",
+    "run_start_time": "2026-11-21T07:49:43.113788+00:00"
+  },
+  {
+    "tmdb_id": 1568060,
+    "title": "Perfect Liars",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-21T07:49:43.113788+00:00",
+    "run_start_time": "2026-11-21T07:49:43.113788+00:00"
+  },
+  {
+    "tmdb_id": 27,
+    "title": "9 Songs",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-21T07:49:43.113788+00:00",
+    "run_start_time": "2026-11-21T07:49:43.113788+00:00"
   }
 ]
