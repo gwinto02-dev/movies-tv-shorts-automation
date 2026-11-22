@@ -5087,5 +5087,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-21T19:52:42.545315+00:00",
     "run_start_time": "2026-11-21T19:52:42.545315+00:00"
+  },
+  {
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-22T07:37:49.191260+00:00",
+    "run_start_time": "2026-11-22T07:37:49.191260+00:00"
+  },
+  {
+    "tmdb_id": 509467,
+    "title": "The Vanished",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-22T07:37:49.191260+00:00",
+    "run_start_time": "2026-11-22T07:37:49.191260+00:00"
+  },
+  {
+    "tmdb_id": 1741617,
+    "title": "Hansel & Gretel's Halloween",
+    "concept_type": "Genre-Diverse Trio",
+    "timestamp": "2026-11-22T07:37:49.191260+00:00",
+    "run_start_time": "2026-11-22T07:37:49.191260+00:00"
   }
 ]
