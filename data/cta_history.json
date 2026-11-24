@@ -1273,5 +1273,10 @@
     "cta_style": "direct_ask",
     "text": "Which of these stories are you streaming tonight? Comment your pick and subscribe for more recommendations!",
     "timestamp": "2026-11-23T08:24:53.713292+00:00"
+  },
+  {
+    "cta_style": "utility_framed",
+    "text": "Which plot sounds craziest to you? Comment your pick and save this video for later!",
+    "timestamp": "2026-11-24T00:32:07.685740+00:00"
   }
 ]
