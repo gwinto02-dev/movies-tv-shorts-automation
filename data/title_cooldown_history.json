@@ -5234,5 +5234,26 @@
     "concept_type": "Trending Trio",
     "timestamp": "2026-11-25T09:21:43.727310+00:00",
     "run_start_time": "2026-11-25T09:21:43.727310+00:00"
+  },
+  {
+    "tmdb_id": 1401459,
+    "title": "Fjord",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-25T22:02:42.384127+00:00",
+    "run_start_time": "2026-11-25T22:02:42.384127+00:00"
+  },
+  {
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-25T22:02:42.384127+00:00",
+    "run_start_time": "2026-11-25T22:02:42.384127+00:00"
+  },
+  {
+    "tmdb_id": 1284046,
+    "title": "Onslaught",
+    "concept_type": "Upcoming Spotlight Trio",
+    "timestamp": "2026-11-25T22:02:42.384127+00:00",
+    "run_start_time": "2026-11-25T22:02:42.384127+00:00"
   }
 ]
