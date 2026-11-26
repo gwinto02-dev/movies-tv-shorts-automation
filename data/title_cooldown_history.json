@@ -5255,5 +5255,26 @@
     "concept_type": "Upcoming Spotlight Trio",
     "timestamp": "2026-11-25T22:02:42.384127+00:00",
     "run_start_time": "2026-11-25T22:02:42.384127+00:00"
+  },
+  {
+    "tmdb_id": 801688,
+    "title": "Kalki 2898-AD",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-26T09:01:40.880730+00:00",
+    "run_start_time": "2026-11-26T09:01:40.880730+00:00"
+  },
+  {
+    "tmdb_id": 1422041,
+    "title": "LA BOLA NEGRA",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-26T09:01:40.880730+00:00",
+    "run_start_time": "2026-11-26T09:01:40.880730+00:00"
+  },
+  {
+    "tmdb_id": 771,
+    "title": "Home Alone",
+    "concept_type": "Decade Spotlight Trio",
+    "timestamp": "2026-11-26T09:01:40.880730+00:00",
+    "run_start_time": "2026-11-26T09:01:40.880730+00:00"
   }
 ]
