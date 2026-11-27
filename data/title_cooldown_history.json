@@ -5318,5 +5318,26 @@
     "concept_type": "Genre-Diverse Trio",
     "timestamp": "2026-11-27T09:14:23.538685+00:00",
     "run_start_time": "2026-11-27T09:14:23.538685+00:00"
+  },
+  {
+    "tmdb_id": 769,
+    "title": "GoodFellas",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-27T21:44:03.501393+00:00",
+    "run_start_time": "2026-11-27T21:44:03.501393+00:00"
+  },
+  {
+    "tmdb_id": 346,
+    "title": "Seven Samurai",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-27T21:44:03.501393+00:00",
+    "run_start_time": "2026-11-27T21:44:03.501393+00:00"
+  },
+  {
+    "tmdb_id": 550,
+    "title": "Fight Club",
+    "concept_type": "Underrated Trio",
+    "timestamp": "2026-11-27T21:44:03.501393+00:00",
+    "run_start_time": "2026-11-27T21:44:03.501393+00:00"
   }
 ]
